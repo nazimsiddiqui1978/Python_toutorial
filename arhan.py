@@ -10,3 +10,5 @@ g=e-f
 print(g)
 h = e / f
 print(h)
+i = a - b
+print(i)
