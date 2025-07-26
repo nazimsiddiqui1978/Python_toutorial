@@ -1,0 +1,1078 @@
+
+Skip to content
+[Jenkins]Jenkins
+search
+Mohd Nazim Siddiqui
+log out
+Jenkins
+iot
+svc-iot-product-activation
+latest-test_latest
+svc-iot-product-activation
+#374
+ Back to Project
+ Status
+ Changes
+ Console Output
+ View as plain text
+ View Build Information
+ Parameters
+ Timings
+ Git Build Data
+ Embeddable Build Status
+ Replay
+ Pipeline Steps
+ Workspaces
+ Previous Build
+ Next Build
+SuccessConsole Output
+Skipping 1,316 KB.. Full Log
+8]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-product-state-net-fix-typo-test_workaround
+I, [2025-07-25 18:58:09  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-product-state-ops-stage_workaround
+I, [2025-07-25 18:58:09  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-product-state-perf-test-43159_workaround
+I, [2025-07-25 18:58:09  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-product-state-perf-test-47034_workaround
+I, [2025-07-25 18:58:09  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-product-state-prod-test_workaround
+I, [2025-07-25 18:58:09  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-product-state-rate-limit_workaround
+I, [2025-07-25 18:58:09  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-product-state-rate-limit-copy_workaround
+I, [2025-07-25 18:58:09  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-product-state-stage_workaround
+I, [2025-07-25 18:58:09  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-product-state-timeouthf-test_workaround
+I, [2025-07-25 18:58:09  #378208]  INFO -- : Skipping PodDisruptionBudget for non-production namespace: svc-iot-product-state-exp-test
+I, [2025-07-25 18:58:09  #378208]  INFO -- : Skipping PodDisruptionBudget for non-production namespace: svc-iot-product-state-integration
+I, [2025-07-25 18:58:09  #378208]  INFO -- : Skipping PodDisruptionBudget for non-production namespace: svc-iot-product-state-latest
+I, [2025-07-25 18:58:09  #378208]  INFO -- : Skipping PodDisruptionBudget for non-production namespace: svc-iot-product-state-stage
+I, [2025-07-25 18:58:09  #378208]  INFO -- :   Claiming ownership of svc-iot-product-profile-secrets from auth-iot
+I, [2025-07-25 18:58:09  #378208]  INFO -- :   Claiming ownership of dat-iot-product-profile-49299-test from auth-iot
+I, [2025-07-25 18:58:09  #378208]  INFO -- :   Claiming ownership of dat-iot-product-profile-51223-test from auth-iot
+I, [2025-07-25 18:58:09  #378208]  INFO -- :   Claiming ownership of dat-iot-product-profile-add-pui-alpha from auth-iot
+I, [2025-07-25 18:58:09  #378208]  INFO -- :   Claiming ownership of dat-iot-product-profile-bump-test from auth-iot
+I, [2025-07-25 18:58:09  #378208]  INFO -- :   Claiming ownership of dat-iot-product-profile-castle-36306 from auth-iot
+I, [2025-07-25 18:58:09  #378208]  INFO -- :   Claiming ownership of dat-iot-product-profile-castle-43554 from auth-iot
+I, [2025-07-25 18:58:09  #378208]  INFO -- :   Claiming ownership of dat-iot-product-profile-castle-43554-test from auth-iot
+I, [2025-07-25 18:58:09  #378208]  INFO -- :   Claiming ownership of dat-iot-product-profile-castle-49299-test from auth-iot
+I, [2025-07-25 18:58:09  #378208]  INFO -- :   Claiming ownership of dat-iot-product-profile-castle-51223-test from auth-iot
+I, [2025-07-25 18:58:09  #378208]  INFO -- :   Claiming ownership of dat-iot-product-profile-daveperm-test from auth-iot
+I, [2025-07-25 18:58:09  #378208]  INFO -- :   Claiming ownership of dat-iot-product-profile-feat-iot-pcs-perms from auth-iot
+I, [2025-07-25 18:58:09  #378208]  INFO -- :   Claiming ownership of dat-iot-product-profile-feat-unit-tests from auth-iot
+I, [2025-07-25 18:58:09  #378208]  INFO -- :   Claiming ownership of dat-iot-product-profile-feature-23390 from auth-iot
+I, [2025-07-25 18:58:09  #378208]  INFO -- :   Claiming ownership of dat-iot-product-profile-feature-36306 from auth-iot
+I, [2025-07-25 18:58:09  #378208]  INFO -- :   Claiming ownership of dat-iot-product-profile-feature-41172 from auth-iot
+I, [2025-07-25 18:58:09  #378208]  INFO -- :   Claiming ownership of dat-iot-product-profile-feature-41811 from auth-iot
+I, [2025-07-25 18:58:09  #378208]  INFO -- :   Claiming ownership of dat-iot-product-profile-feature-42934 from auth-iot
+I, [2025-07-25 18:58:09  #378208]  INFO -- :   Claiming ownership of dat-iot-product-profile-feature-alex from auth-iot
+I, [2025-07-25 18:58:09  #378208]  INFO -- :   Claiming ownership of dat-iot-product-profile-feature-goupdate from auth-iot
+I, [2025-07-25 18:58:09  #378208]  INFO -- :   Claiming ownership of dat-iot-product-profile-feature-iotack from auth-iot
+I, [2025-07-25 18:58:09  #378208]  INFO -- :   Claiming ownership of dat-iot-product-profile-feature-mr2 from auth-iot
+I, [2025-07-25 18:58:10  #378208]  INFO -- :   Claiming ownership of dat-iot-product-profile-feature-pui-class from auth-iot
+I, [2025-07-25 18:58:10  #378208]  INFO -- :   Claiming ownership of dat-iot-product-profile-feature-test from auth-iot
+I, [2025-07-25 18:58:10  #378208]  INFO -- :   Claiming ownership of dat-iot-product-profile-feature-vsk from auth-iot
+I, [2025-07-25 18:58:10  #378208]  INFO -- :   Claiming ownership of dat-iot-product-profile-fix-castle-2782 from auth-iot
+I, [2025-07-25 18:58:10  #378208]  INFO -- :   Claiming ownership of dat-iot-product-profile-ft-atlas-test from auth-iot
+I, [2025-07-25 18:58:10  #378208]  INFO -- :   Claiming ownership of dat-iot-product-profile-gomod-test from auth-iot
+I, [2025-07-25 18:58:10  #378208]  INFO -- :   Claiming ownership of dat-iot-product-profile-gomod2-test from auth-iot
+I, [2025-07-25 18:58:10  #378208]  INFO -- :   Claiming ownership of dat-iot-product-profile-gomodfix-test from auth-iot
+I, [2025-07-25 18:58:10  #378208]  INFO -- :   Claiming ownership of dat-iot-product-profile-hotfix-harbor from auth-iot
+I, [2025-07-25 18:58:10  #378208]  INFO -- :   Claiming ownership of dat-iot-product-profile-hotfix-harbor-test from auth-iot
+I, [2025-07-25 18:58:10  #378208]  INFO -- :   Claiming ownership of dat-iot-product-profile-integration from auth-iot
+I, [2025-07-25 18:58:10  #378208]  INFO -- :   Claiming ownership of dat-iot-product-profile-integration-test from auth-iot
+I, [2025-07-25 18:58:10  #378208]  INFO -- :   Claiming ownership of dat-iot-product-profile-iot-profile-pp-perms from auth-iot
+I, [2025-07-25 18:58:10  #378208]  INFO -- :   Claiming ownership of dat-iot-product-profile-latest from auth-iot
+I, [2025-07-25 18:58:10  #378208]  INFO -- :   Claiming ownership of dat-iot-product-profile-latest-test from auth-iot
+I, [2025-07-25 18:58:10  #378208]  INFO -- :   Claiming ownership of dat-iot-product-profile-prod-test from auth-iot
+I, [2025-07-25 18:58:10  #378208]  INFO -- :   Claiming ownership of dat-iot-product-profile-stage from auth-iot
+I, [2025-07-25 18:58:10  #378208]  INFO -- :   Claiming ownership of dat-iot-product-profile-upgrade-test from auth-iot
+I, [2025-07-25 18:58:10  #378208]  INFO -- :   Claiming ownership of svc-iot-product-profile-integration from auth-iot
+I, [2025-07-25 18:58:10  #378208]  INFO -- :   Claiming ownership of svc-iot-product-profile-latest from auth-iot
+I, [2025-07-25 18:58:10  #378208]  INFO -- :   Claiming ownership of svc-iot-product-profile-stage from auth-iot
+W, [2025-07-25 18:58:10  #378208]  WARN -- : No such namespace: svc-iot-product-profile-feature-23390_workaround
+W, [2025-07-25 18:58:10  #378208]  WARN -- : No such namespace: svc-iot-product-profile-feature-36306_workaround
+W, [2025-07-25 18:58:10  #378208]  WARN -- : No such namespace: svc-iot-product-profile-feature-41172_workaround
+W, [2025-07-25 18:58:10  #378208]  WARN -- : No such namespace: svc-iot-product-profile-feature-41811_workaround
+W, [2025-07-25 18:58:10  #378208]  WARN -- : No such namespace: svc-iot-product-profile-feature-42934_workaround
+W, [2025-07-25 18:58:10  #378208]  WARN -- : No such namespace: svc-iot-product-profile-feature-alex_workaround
+W, [2025-07-25 18:58:10  #378208]  WARN -- : No such namespace: svc-iot-product-profile-feature-goupdate_workaround
+W, [2025-07-25 18:58:10  #378208]  WARN -- : No such namespace: svc-iot-product-profile-feature-iotack_workaround
+W, [2025-07-25 18:58:10  #378208]  WARN -- : No such namespace: svc-iot-product-profile-feature-mr2_workaround
+W, [2025-07-25 18:58:10  #378208]  WARN -- : No such namespace: svc-iot-product-profile-feature-pui-class_workaround
+W, [2025-07-25 18:58:10  #378208]  WARN -- : No such namespace: svc-iot-product-profile-feature-test_workaround
+W, [2025-07-25 18:58:10  #378208]  WARN -- : No such namespace: svc-iot-product-profile-feature-vsk_workaround
+I, [2025-07-25 18:58:10  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-product-profile-49299-test_workaround
+I, [2025-07-25 18:58:10  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-product-profile-51223-test_workaround
+I, [2025-07-25 18:58:10  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-product-profile-add-pui-alpha_workaround
+I, [2025-07-25 18:58:10  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-product-profile-bump-test_workaround
+I, [2025-07-25 18:58:10  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-product-profile-castle-36306_workaround
+I, [2025-07-25 18:58:10  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-product-profile-castle-43554_workaround
+I, [2025-07-25 18:58:10  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-product-profile-castle-43554-test_workaround
+I, [2025-07-25 18:58:11  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-product-profile-castle-49299-test_workaround
+I, [2025-07-25 18:58:11  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-product-profile-castle-51223-test_workaround
+I, [2025-07-25 18:58:11  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-product-profile-daveperm-test_workaround
+I, [2025-07-25 18:58:11  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-product-profile-feat-iot-pcs-perms_workaround
+I, [2025-07-25 18:58:11  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-product-profile-feat-unit-tests
+I, [2025-07-25 18:58:11  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-product-profile-feature-23390_workaround
+I, [2025-07-25 18:58:11  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-product-profile-feature-36306_workaround
+I, [2025-07-25 18:58:11  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-product-profile-feature-41172_workaround
+I, [2025-07-25 18:58:11  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-product-profile-feature-41811_workaround
+I, [2025-07-25 18:58:11  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-product-profile-feature-42934_workaround
+I, [2025-07-25 18:58:11  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-product-profile-feature-alex_workaround
+I, [2025-07-25 18:58:11  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-product-profile-feature-goupdate_workaround
+I, [2025-07-25 18:58:11  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-product-profile-feature-iotack_workaround
+I, [2025-07-25 18:58:11  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-product-profile-feature-mr2_workaround
+I, [2025-07-25 18:58:11  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-product-profile-feature-pui-class_workaround
+I, [2025-07-25 18:58:11  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-product-profile-feature-test_workaround
+I, [2025-07-25 18:58:11  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-product-profile-feature-vsk_workaround
+I, [2025-07-25 18:58:11  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-product-profile-fix-castle-2782_workaround
+I, [2025-07-25 18:58:11  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-product-profile-ft-atlas-test_workaround
+I, [2025-07-25 18:58:11  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-product-profile-gomod-test_workaround
+I, [2025-07-25 18:58:11  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-product-profile-gomod2-test_workaround
+I, [2025-07-25 18:58:11  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-product-profile-gomodfix-test_workaround
+I, [2025-07-25 18:58:11  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-product-profile-hotfix-harbor_workaround
+I, [2025-07-25 18:58:11  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-product-profile-hotfix-harbor-test_workaround
+I, [2025-07-25 18:58:11  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-product-profile-integration_workaround
+I, [2025-07-25 18:58:11  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-product-profile-integration-test_workaround
+I, [2025-07-25 18:58:11  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-product-profile-iot-profile-pp-perms
+I, [2025-07-25 18:58:11  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-product-profile-latest_workaround
+I, [2025-07-25 18:58:11  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-product-profile-latest-test_workaround
+I, [2025-07-25 18:58:11  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-product-profile-prod-test_workaround
+I, [2025-07-25 18:58:11  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-product-profile-stage_workaround
+I, [2025-07-25 18:58:11  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-product-profile-upgrade-test_workaround
+I, [2025-07-25 18:58:11  #378208]  INFO -- : Skipping PodDisruptionBudget for non-production namespace: svc-iot-product-profile-integration
+I, [2025-07-25 18:58:11  #378208]  INFO -- : Skipping PodDisruptionBudget for non-production namespace: svc-iot-product-profile-latest
+I, [2025-07-25 18:58:11  #378208]  INFO -- : Skipping PodDisruptionBudget for non-production namespace: svc-iot-product-profile-stage
+I, [2025-07-25 18:58:11  #378208]  INFO -- :   Claiming ownership of svc-iot-lwt-state-secrets from auth-iot
+I, [2025-07-25 18:58:11  #378208]  INFO -- :   Claiming ownership of dat-iot-lwt-state-castle-23061-fixes from auth-iot
+I, [2025-07-25 18:58:11  #378208]  INFO -- :   Claiming ownership of dat-iot-lwt-state-castle-41812 from auth-iot
+I, [2025-07-25 18:58:11  #378208]  INFO -- :   Claiming ownership of dat-iot-lwt-state-castle-42929 from auth-iot
+I, [2025-07-25 18:58:11  #378208]  INFO -- :   Claiming ownership of dat-iot-lwt-state-castle-51427 from auth-iot
+I, [2025-07-25 18:58:11  #378208]  INFO -- :   Claiming ownership of dat-iot-lwt-state-feature-rate-limit from auth-iot
+I, [2025-07-25 18:58:11  #378208]  INFO -- :   Claiming ownership of dat-iot-lwt-state-fix-prod-logs from auth-iot
+I, [2025-07-25 18:58:11  #378208]  INFO -- :   Claiming ownership of dat-iot-lwt-state-fix-redis-logs from auth-iot
+I, [2025-07-25 18:58:11  #378208]  INFO -- :   Claiming ownership of dat-iot-lwt-state-integration from auth-iot
+I, [2025-07-25 18:58:12  #378208]  INFO -- :   Claiming ownership of dat-iot-lwt-state-integration-test from auth-iot
+I, [2025-07-25 18:58:12  #378208]  INFO -- :   Claiming ownership of dat-iot-lwt-state-latest from auth-iot
+I, [2025-07-25 18:58:12  #378208]  INFO -- :   Claiming ownership of dat-iot-lwt-state-prod from auth-iot
+I, [2025-07-25 18:58:12  #378208]  INFO -- :   Claiming ownership of dat-iot-lwt-state-prod-test from auth-iot
+I, [2025-07-25 18:58:12  #378208]  INFO -- :   Claiming ownership of dat-iot-lwt-state-rate-limit from auth-iot
+I, [2025-07-25 18:58:12  #378208]  INFO -- :   Claiming ownership of dat-iot-lwt-state-stage from auth-iot
+I, [2025-07-25 18:58:12  #378208]  INFO -- :   Claiming ownership of dat-iot-lwt-state-state from auth-iot
+I, [2025-07-25 18:58:12  #378208]  INFO -- :   Claiming ownership of svc-iot-lwt-state-stage from auth-iot
+I, [2025-07-25 18:58:12  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-lwt-state-castle-23061-fixes_workaround
+I, [2025-07-25 18:58:12  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-lwt-state-castle-41812_workaround
+I, [2025-07-25 18:58:12  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-lwt-state-castle-42929_workaround
+I, [2025-07-25 18:58:12  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-lwt-state-castle-51427_workaround
+I, [2025-07-25 18:58:12  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-lwt-state-feature-rate-limit_workaround
+I, [2025-07-25 18:58:12  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-lwt-state-fix-prod-logs_workaround
+I, [2025-07-25 18:58:12  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-lwt-state-fix-redis-logs_workaround
+I, [2025-07-25 18:58:12  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-lwt-state-integration_workaround
+I, [2025-07-25 18:58:12  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-lwt-state-integration-test_workaround
+I, [2025-07-25 18:58:12  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-lwt-state-latest_workaround
+I, [2025-07-25 18:58:12  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-lwt-state-prod_workaround
+I, [2025-07-25 18:58:12  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-lwt-state-prod-test_workaround
+I, [2025-07-25 18:58:12  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-lwt-state-rate-limit_workaround
+I, [2025-07-25 18:58:12  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-lwt-state-stage_workaround
+I, [2025-07-25 18:58:12  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-lwt-state-state_workaround
+I, [2025-07-25 18:58:12  #378208]  INFO -- : Skipping PodDisruptionBudget for non-production namespace: svc-iot-lwt-state-stage
+I, [2025-07-25 18:58:12  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-lwt-state-castle-23061-fixes_workaround
+I, [2025-07-25 18:58:12  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-lwt-state-castle-41812_workaround
+I, [2025-07-25 18:58:12  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-lwt-state-castle-42929_workaround
+I, [2025-07-25 18:58:12  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-lwt-state-castle-51427_workaround
+I, [2025-07-25 18:58:12  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-lwt-state-feature-rate-limit_workaround
+I, [2025-07-25 18:58:12  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-lwt-state-fix-prod-logs_workaround
+I, [2025-07-25 18:58:12  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-lwt-state-fix-redis-logs_workaround
+I, [2025-07-25 18:58:12  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-lwt-state-integration_workaround
+I, [2025-07-25 18:58:12  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-lwt-state-integration-test_workaround
+I, [2025-07-25 18:58:12  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-lwt-state-latest_workaround
+I, [2025-07-25 18:58:12  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-lwt-state-prod_workaround
+I, [2025-07-25 18:58:12  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-lwt-state-prod-test_workaround
+I, [2025-07-25 18:58:12  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-lwt-state-rate-limit_workaround
+I, [2025-07-25 18:58:12  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-lwt-state-stage_workaround
+I, [2025-07-25 18:58:13  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-lwt-state-state_workaround
+I, [2025-07-25 18:58:13  #378208]  INFO -- : Skipping PodDisruptionBudget for non-production namespace: svc-iot-lwt-state-stage
+I, [2025-07-25 18:58:13  #378208]  INFO -- :   Claiming ownership of svc-iot-product-info-secrets from auth-iot
+I, [2025-07-25 18:58:13  #378208]  INFO -- :   Claiming ownership of svc-iot-product-info-integration from auth-iot
+I, [2025-07-25 18:58:13  #378208]  INFO -- :   Claiming ownership of svc-iot-product-info-latest from auth-iot
+I, [2025-07-25 18:58:13  #378208]  INFO -- :   Claiming ownership of svc-iot-product-info-stage from auth-iot
+I, [2025-07-25 18:58:13  #378208]  INFO -- : Skipping PodDisruptionBudget for non-production namespace: svc-iot-product-info-integration
+I, [2025-07-25 18:58:13  #378208]  INFO -- : Skipping PodDisruptionBudget for non-production namespace: svc-iot-product-info-latest
+I, [2025-07-25 18:58:13  #378208]  INFO -- : Skipping PodDisruptionBudget for non-production namespace: svc-iot-product-info-stage
+I, [2025-07-25 18:58:13  #378208]  INFO -- :   Claiming ownership of svc-iot-msg-bridge-secrets from auth-iot
+I, [2025-07-25 18:58:13  #378208]  INFO -- :   Claiming ownership of svc-iot-msg-bridge-integration from auth-iot
+I, [2025-07-25 18:58:13  #378208]  INFO -- :   Claiming ownership of svc-iot-msg-bridge-latest from auth-iot
+I, [2025-07-25 18:58:13  #378208]  INFO -- :   Claiming ownership of svc-iot-msg-bridge-stage from auth-iot
+I, [2025-07-25 18:58:14  #378208]  INFO -- : Skipping PodDisruptionBudget for non-production namespace: svc-iot-msg-bridge-integration
+I, [2025-07-25 18:58:14  #378208]  INFO -- : Skipping PodDisruptionBudget for non-production namespace: svc-iot-msg-bridge-latest
+I, [2025-07-25 18:58:14  #378208]  INFO -- : Skipping PodDisruptionBudget for non-production namespace: svc-iot-msg-bridge-stage
+I, [2025-07-25 18:58:14  #378208]  INFO -- :   Claiming ownership of svc-iot-product-event-secrets from auth-iot
+I, [2025-07-25 18:58:14  #378208]  INFO -- :   Claiming ownership of svc-iot-product-event-integration from auth-iot
+I, [2025-07-25 18:58:14  #378208]  INFO -- :   Claiming ownership of svc-iot-product-event-latest from auth-iot
+I, [2025-07-25 18:58:14  #378208]  INFO -- :   Claiming ownership of svc-iot-product-event-stage from auth-iot
+I, [2025-07-25 18:58:14  #378208]  INFO -- : Skipping PodDisruptionBudget for non-production namespace: svc-iot-product-event-integration
+I, [2025-07-25 18:58:14  #378208]  INFO -- : Skipping PodDisruptionBudget for non-production namespace: svc-iot-product-event-latest
+I, [2025-07-25 18:58:14  #378208]  INFO -- : Skipping PodDisruptionBudget for non-production namespace: svc-iot-product-event-stage
+I, [2025-07-25 18:58:14  #378208]  INFO -- :   Claiming ownership of svc-iot-product-config-secrets from auth-iot
+I, [2025-07-25 18:58:14  #378208]  INFO -- :   Claiming ownership of dat-iot-product-config-castle-37130 from auth-iot
+I, [2025-07-25 18:58:14  #378208]  INFO -- :   Claiming ownership of dat-iot-product-config-harbor-switch from auth-iot
+I, [2025-07-25 18:58:14  #378208]  INFO -- :   Claiming ownership of dat-iot-product-config-latest from auth-iot
+I, [2025-07-25 18:58:14  #378208]  INFO -- :   Claiming ownership of svc-iot-product-config-latest from auth-iot
+I, [2025-07-25 18:58:14  #378208]  INFO -- :   Claiming ownership of svc-fenestra-ssi-secrets from auth-iot
+I, [2025-07-25 18:58:14  #378208]  INFO -- :   Claiming ownership of svc-fenestra-ssi-castle-61719-test from auth-iot
+I, [2025-07-25 18:58:14  #378208]  INFO -- :   Claiming ownership of svc-fenestra-ssi-feature from auth-iot
+I, [2025-07-25 18:58:14  #378208]  INFO -- :   Claiming ownership of svc-fenestra-ssi-feature-test from auth-iot
+I, [2025-07-25 18:58:14  #378208]  INFO -- :   Claiming ownership of svc-fenestra-ssi-integration from auth-iot
+I, [2025-07-25 18:58:14  #378208]  INFO -- :   Claiming ownership of svc-fenestra-ssi-latest from auth-iot
+I, [2025-07-25 18:58:14  #378208]  INFO -- :   Claiming ownership of svc-iot-product-portal-fe-secrets from auth-iot
+I, [2025-07-25 18:58:14  #378208]  INFO -- :   Claiming ownership of svc-iot-product-portal-fe-integration from auth-iot
+I, [2025-07-25 18:58:14  #378208]  INFO -- :   Claiming ownership of svc-iot-product-portal-fe-latest from auth-iot
+I, [2025-07-25 18:58:15  #378208]  INFO -- : Skipping PodDisruptionBudget for non-production namespace: svc-iot-product-portal-fe-integration
+I, [2025-07-25 18:58:15  #378208]  INFO -- : Skipping PodDisruptionBudget for non-production namespace: svc-iot-product-portal-fe-latest
+I, [2025-07-25 18:58:15  #378208]  INFO -- :   Claiming ownership of svc-iot-product-portal-proxy-secrets from auth-iot
+I, [2025-07-25 18:58:15  #378208]  INFO -- :   Claiming ownership of dat-iot-product-portal-proxy-castle-48212 from auth-iot
+I, [2025-07-25 18:58:15  #378208]  INFO -- :   Claiming ownership of dat-iot-product-portal-proxy-castle-48212-test from auth-iot
+I, [2025-07-25 18:58:15  #378208]  INFO -- :   Claiming ownership of dat-iot-product-portal-proxy-castle-49272-test from auth-iot
+I, [2025-07-25 18:58:15  #378208]  INFO -- :   Claiming ownership of dat-iot-product-portal-proxy-castle-49529-test from auth-iot
+I, [2025-07-25 18:58:15  #378208]  INFO -- :   Claiming ownership of dat-iot-product-portal-proxy-castle-50312-test from auth-iot
+I, [2025-07-25 18:58:15  #378208]  INFO -- :   Claiming ownership of dat-iot-product-portal-proxy-castle-51631-test from auth-iot
+I, [2025-07-25 18:58:15  #378208]  INFO -- :   Claiming ownership of dat-iot-product-portal-proxy-castle-51632-test from auth-iot
+I, [2025-07-25 18:58:15  #378208]  INFO -- :   Claiming ownership of dat-iot-product-portal-proxy-castle-53672-test from auth-iot
+I, [2025-07-25 18:58:15  #378208]  INFO -- :   Claiming ownership of dat-iot-product-portal-proxy-castle-53889-test from auth-iot
+I, [2025-07-25 18:58:15  #378208]  INFO -- :   Claiming ownership of dat-iot-product-portal-proxy-castle-54141-test from auth-iot
+I, [2025-07-25 18:58:15  #378208]  INFO -- :   Claiming ownership of dat-iot-product-portal-proxy-castle-55826-test from auth-iot
+I, [2025-07-25 18:58:15  #378208]  INFO -- :   Claiming ownership of dat-iot-product-portal-proxy-castle-57450-test from auth-iot
+I, [2025-07-25 18:58:15  #378208]  INFO -- :   Claiming ownership of dat-iot-product-portal-proxy-castle-58285-test from auth-iot
+I, [2025-07-25 18:58:15  #378208]  INFO -- :   Claiming ownership of dat-iot-product-portal-proxy-castle-58728-test from auth-iot
+I, [2025-07-25 18:58:15  #378208]  INFO -- :   Claiming ownership of dat-iot-product-portal-proxy-castle-59130-test from auth-iot
+I, [2025-07-25 18:58:15  #378208]  INFO -- :   Claiming ownership of dat-iot-product-portal-proxy-castle-61183-test from auth-iot
+I, [2025-07-25 18:58:15  #378208]  INFO -- :   Claiming ownership of dat-iot-product-portal-proxy-castle-61783-test from auth-iot
+I, [2025-07-25 18:58:15  #378208]  INFO -- :   Claiming ownership of dat-iot-product-portal-proxy-init from auth-iot
+I, [2025-07-25 18:58:15  #378208]  INFO -- :   Claiming ownership of dat-iot-product-portal-proxy-integration from auth-iot
+I, [2025-07-25 18:58:15  #378208]  INFO -- :   Claiming ownership of dat-iot-product-portal-proxy-integration-test from auth-iot
+I, [2025-07-25 18:58:15  #378208]  INFO -- :   Claiming ownership of dat-iot-product-portal-proxy-latest from auth-iot
+I, [2025-07-25 18:58:15  #378208]  INFO -- :   Claiming ownership of dat-iot-product-portal-proxy-latest-test from auth-iot
+I, [2025-07-25 18:58:15  #378208]  INFO -- :   Claiming ownership of dat-iot-product-portal-proxy-openconsort-test from auth-iot
+I, [2025-07-25 18:58:15  #378208]  INFO -- :   Claiming ownership of dat-iot-product-portal-proxy-prod-test from auth-iot
+I, [2025-07-25 18:58:15  #378208]  INFO -- :   Claiming ownership of svc-iot-product-portal-proxy-integration from auth-iot
+I, [2025-07-25 18:58:15  #378208]  INFO -- :   Claiming ownership of svc-iot-product-portal-proxy-latest from auth-iot
+I, [2025-07-25 18:58:16  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-product-portal-proxy-castle-48212_workaround
+I, [2025-07-25 18:58:16  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-product-portal-proxy-castle-48212-test_workaround
+I, [2025-07-25 18:58:16  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-product-portal-proxy-castle-49272-test_workaround
+I, [2025-07-25 18:58:16  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-product-portal-proxy-castle-49529-test_workaround
+I, [2025-07-25 18:58:16  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-product-portal-proxy-castle-50312-test_workaround
+I, [2025-07-25 18:58:16  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-product-portal-proxy-castle-51631-test_workaround
+I, [2025-07-25 18:58:16  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-product-portal-proxy-castle-51632-test_workaround
+I, [2025-07-25 18:58:16  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-product-portal-proxy-castle-53672-test_workaround
+I, [2025-07-25 18:58:16  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-product-portal-proxy-castle-53889-test_workaround
+I, [2025-07-25 18:58:16  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-product-portal-proxy-castle-54141-test_workaround
+I, [2025-07-25 18:58:16  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-product-portal-proxy-castle-55826-test_workaround
+I, [2025-07-25 18:58:16  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-product-portal-proxy-castle-57450-test_workaround
+I, [2025-07-25 18:58:16  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-product-portal-proxy-castle-58285-test_workaround
+I, [2025-07-25 18:58:16  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-product-portal-proxy-castle-58728-test_workaround
+I, [2025-07-25 18:58:16  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-product-portal-proxy-castle-59130-test_workaround
+I, [2025-07-25 18:58:16  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-product-portal-proxy-castle-61183-test_workaround
+I, [2025-07-25 18:58:16  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-product-portal-proxy-castle-61783-test_workaround
+I, [2025-07-25 18:58:16  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-product-portal-proxy-init_workaround
+I, [2025-07-25 18:58:16  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-product-portal-proxy-integration_workaround
+I, [2025-07-25 18:58:16  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-product-portal-proxy-integration-test_workaround
+I, [2025-07-25 18:58:16  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-product-portal-proxy-latest_workaround
+I, [2025-07-25 18:58:16  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-product-portal-proxy-latest-test_workaround
+I, [2025-07-25 18:58:16  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-product-portal-proxy-openconsort-test_workaround
+I, [2025-07-25 18:58:16  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-product-portal-proxy-prod-test_workaround
+I, [2025-07-25 18:58:16  #378208]  INFO -- : Skipping PodDisruptionBudget for non-production namespace: svc-iot-product-portal-proxy-integration
+I, [2025-07-25 18:58:16  #378208]  INFO -- : Skipping PodDisruptionBudget for non-production namespace: svc-iot-product-portal-proxy-latest
+I, [2025-07-25 18:58:16  #378208]  INFO -- :   Claiming ownership of svc-iot-product-portal-mgr-secrets from auth-iot
+I, [2025-07-25 18:58:16  #378208]  INFO -- :   Claiming ownership of svc-iot-product-portal-mgr-castle-63026-test from auth-iot
+I, [2025-07-25 18:58:16  #378208]  INFO -- :   Claiming ownership of svc-iot-product-portal-mgr-integration from auth-iot
+I, [2025-07-25 18:58:16  #378208]  INFO -- :   Claiming ownership of svc-iot-product-portal-mgr-latest from auth-iot
+I, [2025-07-25 18:58:16  #378208]  INFO -- : Skipping PodDisruptionBudget for non-production namespace: svc-iot-product-portal-mgr-castle-63026-test
+I, [2025-07-25 18:58:16  #378208]  INFO -- : Skipping PodDisruptionBudget for non-production namespace: svc-iot-product-portal-mgr-integration
+I, [2025-07-25 18:58:17  #378208]  INFO -- : Skipping PodDisruptionBudget for non-production namespace: svc-iot-product-portal-mgr-latest
+I, [2025-07-25 18:58:17  #378208]  INFO -- :   Claiming ownership of svc-iot-lwt-secrets from auth-iot
+I, [2025-07-25 18:58:17  #378208]  INFO -- :   Claiming ownership of svc-iot-lwt-integration from auth-iot
+I, [2025-07-25 18:58:17  #378208]  INFO -- :   Claiming ownership of svc-iot-lwt-latest from auth-iot
+I, [2025-07-25 18:58:17  #378208]  INFO -- : Skipping PodDisruptionBudget for non-production namespace: svc-iot-lwt-integration
+I, [2025-07-25 18:58:17  #378208]  INFO -- : Skipping PodDisruptionBudget for non-production namespace: svc-iot-lwt-latest
+I, [2025-07-25 18:58:17  #378208]  INFO -- :   Claiming ownership of svc-iot-mfi-token-secrets from auth-iot
+I, [2025-07-25 18:58:17  #378208]  INFO -- :   Claiming ownership of dat-iot-mfi-token-52290-test from auth-iot
+I, [2025-07-25 18:58:17  #378208]  INFO -- :   Claiming ownership of dat-iot-mfi-token-52291-test from auth-iot
+I, [2025-07-25 18:58:17  #378208]  INFO -- :   Claiming ownership of dat-iot-mfi-token-castle-52290-test from auth-iot
+I, [2025-07-25 18:58:17  #378208]  INFO -- :   Claiming ownership of dat-iot-mfi-token-castle-52291-test from auth-iot
+I, [2025-07-25 18:58:17  #378208]  INFO -- :   Claiming ownership of dat-iot-mfi-token-castle-52292-test from auth-iot
+I, [2025-07-25 18:58:17  #378208]  INFO -- :   Claiming ownership of dat-iot-mfi-token-castle-52293-test from auth-iot
+I, [2025-07-25 18:58:17  #378208]  INFO -- :   Claiming ownership of dat-iot-mfi-token-castle-52294-test from auth-iot
+I, [2025-07-25 18:58:17  #378208]  INFO -- :   Claiming ownership of dat-iot-mfi-token-castle-52398-test from auth-iot
+I, [2025-07-25 18:58:17  #378208]  INFO -- :   Claiming ownership of dat-iot-mfi-token-castle-52577-test from auth-iot
+I, [2025-07-25 18:58:17  #378208]  INFO -- :   Claiming ownership of dat-iot-mfi-token-fixuuid-test from auth-iot
+I, [2025-07-25 18:58:17  #378208]  INFO -- :   Claiming ownership of dat-iot-mfi-token-integration from auth-iot
+I, [2025-07-25 18:58:17  #378208]  INFO -- :   Claiming ownership of dat-iot-mfi-token-integration-test from auth-iot
+I, [2025-07-25 18:58:17  #378208]  INFO -- :   Claiming ownership of dat-iot-mfi-token-latest from auth-iot
+I, [2025-07-25 18:58:17  #378208]  INFO -- :   Claiming ownership of dat-iot-mfi-token-latest-test from auth-iot
+I, [2025-07-25 18:58:17  #378208]  INFO -- :   Claiming ownership of dat-iot-mfi-token-nodbinit-test from auth-iot
+I, [2025-07-25 18:58:17  #378208]  INFO -- :   Claiming ownership of dat-iot-mfi-token-prelim-test from auth-iot
+I, [2025-07-25 18:58:17  #378208]  INFO -- :   Claiming ownership of svc-iot-mfi-token-integration from auth-iot
+I, [2025-07-25 18:58:17  #378208]  INFO -- :   Claiming ownership of svc-iot-mfi-token-latest from auth-iot
+I, [2025-07-25 18:58:17  #378208]  INFO -- :   Claiming ownership of svc-iot-mfi-token-stage from auth-iot
+I, [2025-07-25 18:58:18  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-mfi-token-52290-test_workaround
+I, [2025-07-25 18:58:18  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-mfi-token-52291-test_workaround
+I, [2025-07-25 18:58:18  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-mfi-token-castle-52290-test_workaround
+I, [2025-07-25 18:58:18  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-mfi-token-castle-52291-test_workaround
+I, [2025-07-25 18:58:18  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-mfi-token-castle-52292-test_workaround
+I, [2025-07-25 18:58:18  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-mfi-token-castle-52293-test_workaround
+I, [2025-07-25 18:58:18  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-mfi-token-castle-52294-test_workaround
+I, [2025-07-25 18:58:18  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-mfi-token-castle-52398-test_workaround
+I, [2025-07-25 18:58:18  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-mfi-token-castle-52577-test_workaround
+I, [2025-07-25 18:58:18  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-mfi-token-fixuuid-test_workaround
+I, [2025-07-25 18:58:18  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-mfi-token-integration_workaround
+I, [2025-07-25 18:58:18  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-mfi-token-integration-test_workaround
+I, [2025-07-25 18:58:18  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-mfi-token-latest_workaround
+I, [2025-07-25 18:58:18  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-mfi-token-latest-test_workaround
+I, [2025-07-25 18:58:18  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-mfi-token-nodbinit-test_workaround
+I, [2025-07-25 18:58:18  #378208]  INFO -- : Skipping PodDisruptionBudget for non-existent namespace: svc-iot-mfi-token-prelim-test_workaround
+I, [2025-07-25 18:58:18  #378208]  INFO -- : Skipping PodDisruptionBudget for non-production namespace: svc-iot-mfi-token-integration
+I, [2025-07-25 18:58:18  #378208]  INFO -- : Skipping PodDisruptionBudget for non-production namespace: svc-iot-mfi-token-latest
+I, [2025-07-25 18:58:18  #378208]  INFO -- : Skipping PodDisruptionBudget for non-production namespace: svc-iot-mfi-token-stage
+I, [2025-07-25 18:58:18  #378208]  INFO -- :   Claiming ownership of svc-iot-product-type-secrets from auth-iot
+I, [2025-07-25 18:58:18  #378208]  INFO -- :   Claiming ownership of svc-iot-product-type-integration from auth-iot
+I, [2025-07-25 18:58:18  #378208]  INFO -- :   Claiming ownership of svc-iot-product-type-latest from auth-iot
+I, [2025-07-25 18:58:18  #378208]  INFO -- :   Claiming ownership of svc-iot-product-type-stage from auth-iot
+I, [2025-07-25 18:58:18  #378208]  INFO -- : Skipping PodDisruptionBudget for non-production namespace: svc-iot-product-type-integration
+I, [2025-07-25 18:58:18  #378208]  INFO -- : Skipping PodDisruptionBudget for non-production namespace: svc-iot-product-type-latest
+I, [2025-07-25 18:58:19  #378208]  INFO -- : Skipping PodDisruptionBudget for non-production namespace: svc-iot-product-type-stage
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Claiming ownership of svc-devops-auth-smoketest-secrets from auth-iot
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Claiming ownership of svc-devops-auth-smoketest-avinashtest from auth-iot
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Claiming ownership of svc-devops-auth-smoketest-stable from auth-iot
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Claiming ownership of svc-devops-auth-smoketest-stable-test from auth-iot
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Claiming ownership of svc-devops-auth-smoketest-stagetest from auth-iot
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Claiming ownership of svc-iot-btu-fe-secrets from auth-iot
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Claiming ownership of svc-iot-btu-fe-atp from auth-iot
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Claiming ownership of svc-iot-btu-fe-atp-buds from auth-iot
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Claiming ownership of svc-iot-btu-fe-bs-routert-test from auth-iot
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Claiming ownership of svc-iot-btu-fe-develop-test from auth-iot
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Claiming ownership of svc-iot-btu-fe-integration from auth-iot
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Claiming ownership of svc-iot-btu-fe-latest from auth-iot
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Claiming ownership of svc-iot-btu-fe-stagingreleased from auth-iot
+I, [2025-07-25 18:58:19  #378208]  INFO -- : Skipping PodDisruptionBudget for non-production namespace: svc-iot-btu-fe-atp
+I, [2025-07-25 18:58:19  #378208]  INFO -- : Skipping PodDisruptionBudget for non-production namespace: svc-iot-btu-fe-atp-buds
+I, [2025-07-25 18:58:19  #378208]  INFO -- : Skipping PodDisruptionBudget for non-production namespace: svc-iot-btu-fe-bs-routert-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- : Skipping PodDisruptionBudget for non-production namespace: svc-iot-btu-fe-develop-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- : Skipping PodDisruptionBudget for non-production namespace: svc-iot-btu-fe-integration
+I, [2025-07-25 18:58:19  #378208]  INFO -- : Skipping PodDisruptionBudget for non-production namespace: svc-iot-btu-fe-latest
+I, [2025-07-25 18:58:19  #378208]  INFO -- : Skipping PodDisruptionBudget for non-production namespace: svc-iot-btu-fe-stagingreleased
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: svc-iot-product-activation-feature
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: svc-iot-product-activation-integration
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: svc-iot-product-activation-latest
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: svc-iot-product-activation-smart-acc-old
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: svc-iot-product-activation-stage
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: svc-iot-product-shadow-castle-63298-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: svc-iot-product-shadow-castle-63332-p-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: svc-iot-product-shadow-integration
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: svc-iot-product-shadow-latest
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: svc-iot-product-shadow-master-test-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: svc-iot-product-shadow-stage
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-45106-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-add-cloudops-kpi
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-add-cors
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-alpha-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-castle-36306
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-castle-36711
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-castle-43225-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-castle-43553-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-castle-45042-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-castle-45589-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-castle-51053-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-castle-51583-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-castle-51630-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-castle-53843-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-castle-53863-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-castle-53976-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-castle-54116-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-castle-54172-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-castle-54315-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-castle-54317-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-castle-54338-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-castle-54819-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-castle-55028-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-castle-55102-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-castle-55584-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-castle-56424-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-castle-56794-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-castle-56842-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-castle-57471-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-castle-60963-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-castle-61229-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-castle-62845-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-castle-62890-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-castle-63108-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-castle-63297-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-cherry-pick
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-cherry-pick-int
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-concurrencyfix-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-exp-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-f-52872-b-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-f-53026-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-feat-babyyoda-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-feat-iot-pcs-perms
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-feature-30630
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-feature-36306
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-feature-40387
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-feature-40599
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-feature-40741
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-feature-41228
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-feature-41712
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-feature-41809
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-feature-42448
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-feature-42448-2
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-feature-42508
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-feature-43492
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-feature-43843
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-feature-alpha
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-feature-beta
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-feature-bugfix
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-feature-cfg-pub
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-feature-cleanup
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-feature-deephealth
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-feature-delete
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-feature-firehose
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-feature-generate
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-feature-goupdate
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-feature-gva-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-feature-gvatest
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-feature-iot-mr4
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-feature-mr2
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-feature-msg
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-feature-pprof
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-feature-proxy
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-feature-publish
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-feature-quickfix
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-feature-revert
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-feature-riomodel
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-feature-rm-pub
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-feature-roles
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-feature-setupstate
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-feature-spike-move
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-feature-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-feature-vsk
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-firehose-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-fix-apigee
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-fix-castle-2782
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-fix-gva-sidecar
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-fix-prod-auth
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-ft-36542
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-ft-52872-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-ft-62640-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-ft-add-track
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-ft-apache-pub
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-ft-apache-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-ft-atlas-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-ft-db-update
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-ft-docker
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-ft-headers
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-ft-mgo
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-ft-pulsar-lib
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-hotfix-alpha
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-hotfix-release
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-int-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-integration
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-integration-exp-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-integration-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-iot-castle-37743
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-iot-revel-luanch
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-latest
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-latest-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-long-requests
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-msg-format
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-net-fix-typo-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-ops-stage
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-perf-test-43159
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-perf-test-47034
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-prod-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-rate-limit
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-rate-limit-copy
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-stage
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-state-timeouthf-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: svc-iot-product-state-exp-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: svc-iot-product-state-integration
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: svc-iot-product-state-latest
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: svc-iot-product-state-stage
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-profile-49299-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-profile-51223-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-profile-add-pui-alpha
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-profile-bump-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-profile-castle-36306
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-profile-castle-43554
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-profile-castle-43554-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-profile-castle-49299-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-profile-castle-51223-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-profile-daveperm-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-profile-feat-iot-pcs-perms
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-profile-feat-unit-tests
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-profile-feature-23390
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-profile-feature-36306
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-profile-feature-41172
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-profile-feature-41811
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-profile-feature-42934
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-profile-feature-alex
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-profile-feature-goupdate
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-profile-feature-iotack
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-profile-feature-mr2
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-profile-feature-pui-class
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-profile-feature-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-profile-feature-vsk
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-profile-fix-castle-2782
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-profile-ft-atlas-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-profile-gomod-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-profile-gomod2-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-profile-gomodfix-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-profile-hotfix-harbor
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-profile-hotfix-harbor-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-profile-integration
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-profile-integration-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-profile-iot-profile-pp-perms
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-profile-latest
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-profile-latest-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-profile-prod-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-profile-stage
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-profile-upgrade-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: svc-iot-product-profile-integration
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: svc-iot-product-profile-latest
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: svc-iot-product-profile-stage
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-lwt-state-castle-23061-fixes
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-lwt-state-castle-41812
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-lwt-state-castle-42929
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-lwt-state-castle-51427
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-lwt-state-feature-rate-limit
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-lwt-state-fix-prod-logs
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-lwt-state-fix-redis-logs
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-lwt-state-integration
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-lwt-state-integration-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-lwt-state-latest
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-lwt-state-prod
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-lwt-state-prod-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-lwt-state-rate-limit
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-lwt-state-stage
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-lwt-state-state
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: svc-iot-lwt-state-stage
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: svc-iot-product-info-integration
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: svc-iot-product-info-latest
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: svc-iot-product-info-stage
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: svc-iot-msg-bridge-integration
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: svc-iot-msg-bridge-latest
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: svc-iot-msg-bridge-stage
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: svc-iot-product-event-integration
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: svc-iot-product-event-latest
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: svc-iot-product-event-stage
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-config-castle-37130
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-config-harbor-switch
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-config-latest
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: svc-iot-product-config-latest
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: svc-fenestra-ssi-castle-61719-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: svc-fenestra-ssi-feature
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: svc-fenestra-ssi-feature-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: svc-fenestra-ssi-integration
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: svc-fenestra-ssi-latest
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: svc-iot-product-portal-fe-integration
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: svc-iot-product-portal-fe-latest
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-portal-proxy-castle-48212
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-portal-proxy-castle-48212-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-portal-proxy-castle-49272-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-portal-proxy-castle-49529-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-portal-proxy-castle-50312-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-portal-proxy-castle-51631-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-portal-proxy-castle-51632-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-portal-proxy-castle-53672-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-portal-proxy-castle-53889-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-portal-proxy-castle-54141-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-portal-proxy-castle-55826-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-portal-proxy-castle-57450-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-portal-proxy-castle-58285-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-portal-proxy-castle-58728-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-portal-proxy-castle-59130-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-portal-proxy-castle-61183-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-portal-proxy-castle-61783-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-portal-proxy-init
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-portal-proxy-integration
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-portal-proxy-integration-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-portal-proxy-latest
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-portal-proxy-latest-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-portal-proxy-openconsort-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-product-portal-proxy-prod-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: svc-iot-product-portal-proxy-integration
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: svc-iot-product-portal-proxy-latest
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: svc-iot-product-portal-mgr-castle-63026-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: svc-iot-product-portal-mgr-integration
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: svc-iot-product-portal-mgr-latest
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: svc-iot-lwt-integration
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: svc-iot-lwt-latest
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-mfi-token-52290-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-mfi-token-52291-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-mfi-token-castle-52290-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-mfi-token-castle-52291-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-mfi-token-castle-52292-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-mfi-token-castle-52293-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-mfi-token-castle-52294-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-mfi-token-castle-52398-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-mfi-token-castle-52577-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-mfi-token-fixuuid-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-mfi-token-integration
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-mfi-token-integration-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-mfi-token-latest
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-mfi-token-latest-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-mfi-token-nodbinit-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: dat-iot-mfi-token-prelim-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: svc-iot-mfi-token-integration
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: svc-iot-mfi-token-latest
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: svc-iot-mfi-token-stage
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: svc-iot-product-type-integration
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: svc-iot-product-type-latest
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: svc-iot-product-type-stage
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: svc-devops-auth-smoketest-avinashtest
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: svc-devops-auth-smoketest-stable
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: svc-devops-auth-smoketest-stable-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: svc-devops-auth-smoketest-stagetest
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: svc-iot-btu-fe-atp
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: svc-iot-btu-fe-atp-buds
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: svc-iot-btu-fe-bs-routert-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: svc-iot-btu-fe-develop-test
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: svc-iot-btu-fe-integration
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: svc-iot-btu-fe-latest
+I, [2025-07-25 18:58:19  #378208]  INFO -- :   Found Non-Production Namespace: svc-iot-btu-fe-stagingreleased
+I, [2025-07-25 18:58:21  #378208]  INFO -- : {"acknowledgement_timeout"=>1800, "addons"=>[], "alert_creation"=>"create_alerts_and_incidents", "auto_resolve_timeout"=>14400, "created_at"=>"2018-11-20T13:19:12-05:00", "description"=>"Service handler for iot", "escalation_policy"=>{"html_url"=>"https://bose-galapagos.pagerduty.com/escalation_policies/P0C8LX3", "id"=>"P0C8LX3", "self"=>"https://api.pagerduty.com/escalation_policies/P0C8LX3", "summary"=>"Iot Support Escalation", "type"=>"escalation_policy_reference"}, "html_url"=>"https://bose-galapagos.pagerduty.com/service-directory/PRWZPW9", "id"=>"PRWZPW9", "incident_urgency_rule"=>{"during_support_hours"=>{"type"=>"constant", "urgency"=>"high"}, "outside_support_hours"=>{"type"=>"constant", "urgency"=>"low"}, "type"=>"use_support_hours"}, "integrations"=>[{"html_url"=>"https://bose-galapagos.pagerduty.com/services/PRWZPW9/integrations/PGQAQ7W", "id"=>"PGQAQ7W", "integration_key"=>"a56f61e70e8848f086d83dfcb1651723", "self"=>"https://api.pagerduty.com/services/PRWZPW9/integrations/PGQAQ7W", "summary"=>"iot StatusCake", "type"=>"generic_events_api_inbound_integration_reference"}, {"html_url"=>"https://bose-galapagos.pagerduty.com/services/PRWZPW9/integrations/PCEPPV6", "id"=>"PCEPPV6", "integration_key"=>"26bb67c57d9846b582cbc3488c7a88e1", "self"=>"https://api.pagerduty.com/services/PRWZPW9/integrations/PCEPPV6", "summary"=>"iot AlertManager", "type"=>"generic_events_api_inbound_integration_reference"}, {"html_url"=>"https://bose-galapagos.pagerduty.com/services/PRWZPW9/integrations/P4AZZDP", "id"=>"P4AZZDP", "integration_key"=>"c1c3d10e48064993977f7284282be74d", "self"=>"https://api.pagerduty.com/services/PRWZPW9/integrations/P4AZZDP", "summary"=>"iot Postman", "type"=>"generic_events_api_inbound_integration_reference"}], "last_incident_timestamp"=>"2024-11-18T10:54:49-05:00", "name"=>"iot", "scheduled_actions"=>[], "self"=>"https://api.pagerduty.com/services/PRWZPW9", "status"=>"active", "summary"=>"iot", "support_hours"=>{"days_of_week"=>[1, 2, 3, 4, 5, 6, 7], "end_time"=>"23:59:00", "start_time"=>"00:00:00", "time_zone"=>"Etc/UTC", "type"=>"fixed_time_per_day"}, "teams"=>[{"html_url"=>"https://bose-galapagos.pagerduty.com/teams/P0JXIV7", "id"=>"P0JXIV7", "self"=>"https://api.pagerduty.com/teams/P0JXIV7", "summary"=>"Iot Team", "type"=>"team_reference"}], "type"=>"service", "updated_at"=>"2020-12-15T11:35:00-05:00"}
+I, [2025-07-25 18:58:21  #378208]  INFO -- : Added labels: {"severity"=>"Major", "PagerdutyKey"=>"26bb67c57d9846b582cbc3488c7a88e1", "QuotaGroup"=>"iot", "SlackChannel"=>"iot-nonprod", "SlackChannelOps"=>"auth-iot-ops-support", "Contacts"=>"galapagos-iot-edit@bose.com"} to alert IoT Product State Service
+I, [2025-07-25 18:58:21  #378208]  INFO -- : Added labels: {"severity"=>"Major", "PagerdutyKey"=>"26bb67c57d9846b582cbc3488c7a88e1", "QuotaGroup"=>"iot", "SlackChannel"=>"iot-nonprod", "SlackChannelOps"=>"auth-iot-ops-support", "Contacts"=>"galapagos-iot-edit@bose.com"} to alert IoT State Publisher Service
+I, [2025-07-25 18:58:21  #378208]  INFO -- : Added labels: {"severity"=>"Major", "PagerdutyKey"=>"26bb67c57d9846b582cbc3488c7a88e1", "QuotaGroup"=>"iot", "SlackChannel"=>"iot-nonprod", "SlackChannelOps"=>"auth-iot-ops-support", "Contacts"=>"galapagos-iot-edit@bose.com"} to alert IoT Product Profile Service
+I, [2025-07-25 18:58:21  #378208]  INFO -- : Added labels: {"severity"=>"Major", "PagerdutyKey"=>"26bb67c57d9846b582cbc3488c7a88e1", "QuotaGroup"=>"iot", "SlackChannel"=>"iot-nonprod", "SlackChannelOps"=>"auth-iot-ops-support", "Contacts"=>"galapagos-iot-edit@bose.com"} to alert IoT Product Activation Service
+I, [2025-07-25 18:58:21  #378208]  INFO -- : Added labels: {"severity"=>"Major", "PagerdutyKey"=>"26bb67c57d9846b582cbc3488c7a88e1", "QuotaGroup"=>"iot", "SlackChannel"=>"iot-nonprod", "SlackChannelOps"=>"auth-iot-ops-support", "Contacts"=>"galapagos-iot-edit@bose.com"} to alert IoT Product Event Service
+I, [2025-07-25 18:58:21  #378208]  INFO -- : Added labels: {"severity"=>"Major", "PagerdutyKey"=>"26bb67c57d9846b582cbc3488c7a88e1", "QuotaGroup"=>"iot", "SlackChannel"=>"iot-nonprod", "SlackChannelOps"=>"auth-iot-ops-support", "Contacts"=>"galapagos-iot-edit@bose.com"} to alert IoT Product Info Service
+I, [2025-07-25 18:58:21  #378208]  INFO -- : Added labels: {"severity"=>"Major", "PagerdutyKey"=>"26bb67c57d9846b582cbc3488c7a88e1", "QuotaGroup"=>"iot", "SlackChannel"=>"iot-nonprod", "SlackChannelOps"=>"auth-iot-ops-support", "Contacts"=>"galapagos-iot-edit@bose.com"} to alert IoT Product Shadow Service
+I, [2025-07-25 18:58:21  #378208]  INFO -- : Added labels: {"severity"=>"Major", "PagerdutyKey"=>"26bb67c57d9846b582cbc3488c7a88e1", "QuotaGroup"=>"iot", "SlackChannel"=>"iot-nonprod", "SlackChannelOps"=>"auth-iot-ops-support", "Contacts"=>"galapagos-iot-edit@bose.com"} to alert IoT Message Bridge Service
+I, [2025-07-25 18:58:21  #378208]  INFO -- : Added labels: {"severity"=>"Major", "PagerdutyKey"=>"26bb67c57d9846b582cbc3488c7a88e1", "QuotaGroup"=>"iot", "SlackChannel"=>"iot-nonprod", "SlackChannelOps"=>"auth-iot-ops-support", "Contacts"=>"galapagos-iot-edit@bose.com"} to alert IoT LWT Service
+I, [2025-07-25 18:58:21  #378208]  INFO -- : Added labels: {"severity"=>"Major", "PagerdutyKey"=>"26bb67c57d9846b582cbc3488c7a88e1", "QuotaGroup"=>"iot", "SlackChannel"=>"iot-nonprod", "SlackChannelOps"=>"auth-iot-ops-support", "Contacts"=>"galapagos-iot-edit@bose.com"} to alert ProductStatePulsarPublishingErrors
+I, [2025-07-25 18:58:21  #378208]  INFO -- : Added labels: {"severity"=>"Minor", "PagerdutyKey"=>"26bb67c57d9846b582cbc3488c7a88e1", "QuotaGroup"=>"iot", "SlackChannel"=>"iot-nonprod", "SlackChannelOps"=>"auth-iot-ops-support", "Contacts"=>"galapagos-iot-edit@bose.com"} to alert ProductStateRequestDurationMinor
+I, [2025-07-25 18:58:21  #378208]  INFO -- : Added labels: {"severity"=>"Minor", "PagerdutyKey"=>"26bb67c57d9846b582cbc3488c7a88e1", "QuotaGroup"=>"iot", "SlackChannel"=>"iot-nonprod", "SlackChannelOps"=>"auth-iot-ops-support", "Contacts"=>"galapagos-iot-edit@bose.com"} to alert ProductStateErrorRate
+I, [2025-07-25 18:58:21  #378208]  INFO -- : Added labels: {"severity"=>"Major", "PagerdutyKey"=>"26bb67c57d9846b582cbc3488c7a88e1", "QuotaGroup"=>"iot", "SlackChannel"=>"iot-nonprod", "SlackChannelOps"=>"auth-iot-ops-support", "Contacts"=>"galapagos-iot-edit@bose.com"} to alert ProductState503ErrorRate
+I, [2025-07-25 18:58:21  #378208]  INFO -- : Added labels: {"severity"=>"Minor", "PagerdutyKey"=>"26bb67c57d9846b582cbc3488c7a88e1", "QuotaGroup"=>"iot", "SlackChannel"=>"iot-nonprod", "SlackChannelOps"=>"auth-iot-ops-support", "Contacts"=>"galapagos-iot-edit@bose.com"} to alert ProductStateSidecarRateLimiting
+I, [2025-07-25 18:58:21  #378208]  INFO -- : Added labels: {"severity"=>"Major", "PagerdutyKey"=>"26bb67c57d9846b582cbc3488c7a88e1", "QuotaGroup"=>"iot", "SlackChannel"=>"iot-nonprod", "SlackChannelOps"=>"auth-iot-ops-support", "Contacts"=>"galapagos-iot-edit@bose.com"} to alert ProductStateSidecarErrorRate
+I, [2025-07-25 18:58:21  #378208]  INFO -- : Added labels: {"severity"=>"Minor", "PagerdutyKey"=>"26bb67c57d9846b582cbc3488c7a88e1", "QuotaGroup"=>"iot", "SlackChannel"=>"iot-nonprod", "SlackChannelOps"=>"auth-iot-ops-support", "Contacts"=>"galapagos-iot-edit@bose.com"} to alert ProductProfileRequestDurationCritical
+I, [2025-07-25 18:58:21  #378208]  INFO -- : Added labels: {"severity"=>"Minor", "PagerdutyKey"=>"26bb67c57d9846b582cbc3488c7a88e1", "QuotaGroup"=>"iot", "SlackChannel"=>"iot-nonprod", "SlackChannelOps"=>"auth-iot-ops-support", "Contacts"=>"galapagos-iot-edit@bose.com"} to alert ProductProfileErrorRate
+I, [2025-07-25 18:58:21  #378208]  INFO -- : Added labels: {"severity"=>"Major", "PagerdutyKey"=>"26bb67c57d9846b582cbc3488c7a88e1", "QuotaGroup"=>"iot", "SlackChannel"=>"iot-nonprod", "SlackChannelOps"=>"auth-iot-ops-support", "Contacts"=>"galapagos-iot-edit@bose.com"} to alert ProductProfileSidecarErrorRate
+I, [2025-07-25 18:58:21  #378208]  INFO -- : Added labels: {"severity"=>"Minor", "PagerdutyKey"=>"26bb67c57d9846b582cbc3488c7a88e1", "QuotaGroup"=>"iot", "SlackChannel"=>"iot-nonprod", "SlackChannelOps"=>"auth-iot-ops-support", "Contacts"=>"galapagos-iot-edit@bose.com"} to alert ProfileErrorRate
+I, [2025-07-25 18:58:21  #378208]  INFO -- : Added labels: {"severity"=>"Minor", "PagerdutyKey"=>"26bb67c57d9846b582cbc3488c7a88e1", "QuotaGroup"=>"iot", "SlackChannel"=>"iot-nonprod", "SlackChannelOps"=>"auth-iot-ops-support", "Contacts"=>"galapagos-iot-edit@bose.com"} to alert AmazonErrorRate
+I, [2025-07-25 18:58:21  #378208]  INFO -- : Added labels: {"severity"=>"Minor", "PagerdutyKey"=>"26bb67c57d9846b582cbc3488c7a88e1", "QuotaGroup"=>"iot", "SlackChannel"=>"iot-nonprod", "SlackChannelOps"=>"auth-iot-ops-support", "Contacts"=>"galapagos-iot-edit@bose.com"} to alert PassportErrorRate
+I, [2025-07-25 18:58:21  #378208]  INFO -- : Added labels: {"severity"=>"Minor", "PagerdutyKey"=>"26bb67c57d9846b582cbc3488c7a88e1", "QuotaGroup"=>"iot", "SlackChannel"=>"iot-nonprod", "SlackChannelOps"=>"auth-iot-ops-support", "Contacts"=>"galapagos-iot-edit@bose.com"} to alert CAErrorRate
+I, [2025-07-25 18:58:21  #378208]  INFO -- : Added labels: {"severity"=>"Minor", "PagerdutyKey"=>"26bb67c57d9846b582cbc3488c7a88e1", "QuotaGroup"=>"iot", "SlackChannel"=>"iot-nonprod", "SlackChannelOps"=>"auth-iot-ops-support", "Contacts"=>"galapagos-iot-edit@bose.com"} to alert ActivationCertCAErrorRateMinor
+I, [2025-07-25 18:58:21  #378208]  INFO -- : Added labels: {"severity"=>"Minor", "PagerdutyKey"=>"26bb67c57d9846b582cbc3488c7a88e1", "QuotaGroup"=>"iot", "SlackChannel"=>"iot-nonprod", "SlackChannelOps"=>"auth-iot-ops-support", "Contacts"=>"galapagos-iot-edit@bose.com"} to alert ActivationCertAWSErrorsMinor
+I, [2025-07-25 18:58:21  #378208]  INFO -- : Added labels: {"severity"=>"Minor", "PagerdutyKey"=>"26bb67c57d9846b582cbc3488c7a88e1", "QuotaGroup"=>"iot", "SlackChannel"=>"iot-nonprod", "SlackChannelOps"=>"auth-iot-ops-support", "Contacts"=>"galapagos-iot-edit@bose.com"} to alert ActivationCertRegistryErrorRateMinor
+I, [2025-07-25 18:58:21  #378208]  INFO -- : Added labels: {"severity"=>"Minor", "PagerdutyKey"=>"26bb67c57d9846b582cbc3488c7a88e1", "QuotaGroup"=>"iot", "SlackChannel"=>"iot-nonprod", "SlackChannelOps"=>"auth-iot-ops-support", "Contacts"=>"galapagos-iot-edit@bose.com"} to alert ActivationCertCSRSignatureErrorRateMinor
+I, [2025-07-25 18:58:21  #378208]  INFO -- : Added labels: {"severity"=>"Minor", "PagerdutyKey"=>"26bb67c57d9846b582cbc3488c7a88e1", "QuotaGroup"=>"iot", "SlackChannel"=>"iot-nonprod", "SlackChannelOps"=>"auth-iot-ops-support", "Contacts"=>"galapagos-iot-edit@bose.com"} to alert ActivationAccessoryNonceErrorMinor
+I, [2025-07-25 18:58:21  #378208]  INFO -- : Added labels: {"severity"=>"Minor", "PagerdutyKey"=>"26bb67c57d9846b582cbc3488c7a88e1", "QuotaGroup"=>"iot", "SlackChannel"=>"iot-nonprod", "SlackChannelOps"=>"auth-iot-ops-support", "Contacts"=>"galapagos-iot-edit@bose.com"} to alert StateErrorRate
+I, [2025-07-25 18:58:21  #378208]  INFO -- : Added labels: {"severity"=>"Minor", "PagerdutyKey"=>"26bb67c57d9846b582cbc3488c7a88e1", "QuotaGroup"=>"iot", "SlackChannel"=>"iot-nonprod", "SlackChannelOps"=>"auth-iot-ops-support", "Contacts"=>"galapagos-iot-edit@bose.com"} to alert RegistryErrorRate
+I, [2025-07-25 18:58:21  #378208]  INFO -- : Added labels: {"severity"=>"Minor", "PagerdutyKey"=>"26bb67c57d9846b582cbc3488c7a88e1", "QuotaGroup"=>"iot", "SlackChannel"=>"iot-nonprod", "SlackChannelOps"=>"auth-iot-ops-support", "Contacts"=>"galapagos-iot-edit@bose.com"} to alert Activation99PercentLatency
+I, [2025-07-25 18:58:21  #378208]  INFO -- : Added labels: {"severity"=>"Minor", "PagerdutyKey"=>"26bb67c57d9846b582cbc3488c7a88e1", "QuotaGroup"=>"iot", "SlackChannel"=>"iot-nonprod", "SlackChannelOps"=>"auth-iot-ops-support", "Contacts"=>"galapagos-iot-edit@bose.com"} to alert Activation95PercentLatency
+I, [2025-07-25 18:58:21  #378208]  INFO -- : Added labels: {"severity"=>"Minor", "PagerdutyKey"=>"26bb67c57d9846b582cbc3488c7a88e1", "QuotaGroup"=>"iot", "SlackChannel"=>"iot-nonprod", "SlackChannelOps"=>"auth-iot-ops-support", "Contacts"=>"galapagos-iot-edit@bose.com"} to alert Activation50PercentLatency
+I, [2025-07-25 18:58:21  #378208]  INFO -- : Added labels: {"severity"=>"Major", "PagerdutyKey"=>"26bb67c57d9846b582cbc3488c7a88e1", "QuotaGroup"=>"iot", "SlackChannel"=>"iot-nonprod", "SlackChannelOps"=>"auth-iot-ops-support", "Contacts"=>"galapagos-iot-edit@bose.com"} to alert ProductActivationSidecarErrorRateMajor
+I, [2025-07-25 18:58:21  #378208]  INFO -- : Added labels: {"severity"=>"Minor", "PagerdutyKey"=>"26bb67c57d9846b582cbc3488c7a88e1", "QuotaGroup"=>"iot", "SlackChannel"=>"iot-nonprod", "SlackChannelOps"=>"auth-iot-ops-support", "Contacts"=>"galapagos-iot-edit@bose.com"} to alert DeActivationAverageLatency
+I, [2025-07-25 18:58:21  #378208]  INFO -- : Added labels: {"severity"=>"Minor", "PagerdutyKey"=>"26bb67c57d9846b582cbc3488c7a88e1", "QuotaGroup"=>"iot", "SlackChannel"=>"iot-nonprod", "SlackChannelOps"=>"auth-iot-ops-support", "Contacts"=>"galapagos-iot-edit@bose.com"} to alert ProductInfoRequestDurationCritical
+I, [2025-07-25 18:58:21  #378208]  INFO -- : Added labels: {"severity"=>"Minor", "PagerdutyKey"=>"26bb67c57d9846b582cbc3488c7a88e1", "QuotaGroup"=>"iot", "SlackChannel"=>"iot-nonprod", "SlackChannelOps"=>"auth-iot-ops-support", "Contacts"=>"galapagos-iot-edit@bose.com"} to alert ProductInfoErrorRate
+I, [2025-07-25 18:58:21  #378208]  INFO -- : Added labels: {"severity"=>"Major", "PagerdutyKey"=>"26bb67c57d9846b582cbc3488c7a88e1", "QuotaGroup"=>"iot", "SlackChannel"=>"iot-nonprod", "SlackChannelOps"=>"auth-iot-ops-support", "Contacts"=>"galapagos-iot-edit@bose.com"} to alert ProductInfoSidecarErrorRateMajor
+I, [2025-07-25 18:58:21  #378208]  INFO -- : Added labels: {"severity"=>"Major", "PagerdutyKey"=>"26bb67c57d9846b582cbc3488c7a88e1", "QuotaGroup"=>"iot", "SlackChannel"=>"iot-nonprod", "SlackChannelOps"=>"auth-iot-ops-support", "Contacts"=>"galapagos-iot-edit@bose.com"} to alert ProductInfoUnexpectedURLMajor
+I, [2025-07-25 18:58:21  #378208]  INFO -- : Added labels: {"severity"=>"Minor", "PagerdutyKey"=>"26bb67c57d9846b582cbc3488c7a88e1", "QuotaGroup"=>"iot", "SlackChannel"=>"iot-nonprod", "SlackChannelOps"=>"auth-iot-ops-support", "Contacts"=>"galapagos-iot-edit@bose.com"} to alert MsgBridge99PercentLatency
+I, [2025-07-25 18:58:21  #378208]  INFO -- : Added labels: {"severity"=>"Minor", "PagerdutyKey"=>"26bb67c57d9846b582cbc3488c7a88e1", "QuotaGroup"=>"iot", "SlackChannel"=>"iot-nonprod", "SlackChannelOps"=>"auth-iot-ops-support", "Contacts"=>"galapagos-iot-edit@bose.com"} to alert MsgBridge95PercentLatency
+I, [2025-07-25 18:58:21  #378208]  INFO -- : Added labels: {"severity"=>"Minor", "PagerdutyKey"=>"26bb67c57d9846b582cbc3488c7a88e1", "QuotaGroup"=>"iot", "SlackChannel"=>"iot-nonprod", "SlackChannelOps"=>"auth-iot-ops-support", "Contacts"=>"galapagos-iot-edit@bose.com"} to alert MsgBridge50PercentLatency
+I, [2025-07-25 18:58:21  #378208]  INFO -- : Added labels: {"severity"=>"Minor", "PagerdutyKey"=>"26bb67c57d9846b582cbc3488c7a88e1", "QuotaGroup"=>"iot", "SlackChannel"=>"iot-nonprod", "SlackChannelOps"=>"auth-iot-ops-support", "Contacts"=>"galapagos-iot-edit@bose.com"} to alert ProductEventRequestDurationCritical
+I, [2025-07-25 18:58:21  #378208]  INFO -- : Added labels: {"severity"=>"Minor", "PagerdutyKey"=>"26bb67c57d9846b582cbc3488c7a88e1", "QuotaGroup"=>"iot", "SlackChannel"=>"iot-nonprod", "SlackChannelOps"=>"auth-iot-ops-support", "Contacts"=>"galapagos-iot-edit@bose.com"} to alert ProductEventErrorRate
+I, [2025-07-25 18:58:21  #378208]  INFO -- : Added labels: {"severity"=>"Major", "PagerdutyKey"=>"26bb67c57d9846b582cbc3488c7a88e1", "QuotaGroup"=>"iot", "SlackChannel"=>"iot-nonprod", "SlackChannelOps"=>"auth-iot-ops-support", "Contacts"=>"galapagos-iot-edit@bose.com"} to alert ProductEventSidecarErrorRate
+I, [2025-07-25 18:58:21  #378208]  INFO -- : Added labels: {"severity"=>"Major", "PagerdutyKey"=>"26bb67c57d9846b582cbc3488c7a88e1", "QuotaGroup"=>"iot", "SlackChannel"=>"iot-nonprod", "SlackChannelOps"=>"auth-iot-ops-support", "Contacts"=>"galapagos-iot-edit@bose.com"} to alert ProductStatePublisherPodsDown
+I, [2025-07-25 18:58:21  #378208]  INFO -- : Added labels: {"severity"=>"Major", "PagerdutyKey"=>"26bb67c57d9846b582cbc3488c7a88e1", "QuotaGroup"=>"iot", "SlackChannel"=>"iot-nonprod", "SlackChannelOps"=>"auth-iot-ops-support", "Contacts"=>"galapagos-iot-edit@bose.com"} to alert ProductStatePublisherFailingToPublish
+I, [2025-07-25 18:58:21  #378208]  INFO -- : Added labels: {"severity"=>"Major", "PagerdutyKey"=>"26bb67c57d9846b582cbc3488c7a88e1", "QuotaGroup"=>"iot", "SlackChannel"=>"iot-nonprod", "SlackChannelOps"=>"auth-iot-ops-support", "Contacts"=>"galapagos-iot-edit@bose.com"} to alert ProductStatePublisherPassportRequestsFailing
+I, [2025-07-25 18:58:21  #378208]  INFO -- : Added labels: {"severity"=>"Minor", "PagerdutyKey"=>"26bb67c57d9846b582cbc3488c7a88e1", "QuotaGroup"=>"iot", "SlackChannel"=>"iot-nonprod", "SlackChannelOps"=>"auth-iot-ops-support", "Contacts"=>"galapagos-iot-edit@bose.com"} to alert ProductStatePublisherErrorAlert
+I, [2025-07-25 18:58:21  #378208]  INFO -- : Added labels: {"severity"=>"Minor", "PagerdutyKey"=>"26bb67c57d9846b582cbc3488c7a88e1", "QuotaGroup"=>"iot", "SlackChannel"=>"iot-nonprod", "SlackChannelOps"=>"auth-iot-ops-support", "Contacts"=>"galapagos-iot-edit@bose.com"} to alert ProductStatePublisher50PercentLatency
+I, [2025-07-25 18:58:21  #378208]  INFO -- : Added labels: {"severity"=>"Major", "PagerdutyKey"=>"26bb67c57d9846b582cbc3488c7a88e1", "QuotaGroup"=>"iot", "SlackChannel"=>"iot-nonprod", "SlackChannelOps"=>"auth-iot-ops-support", "Contacts"=>"galapagos-iot-edit@bose.com"} to alert IoT Product Portal Front End Service Down
+I, [2025-07-25 18:58:21  #378208]  INFO -- : Added labels: {"severity"=>"Major", "PagerdutyKey"=>"26bb67c57d9846b582cbc3488c7a88e1", "QuotaGroup"=>"iot", "SlackChannel"=>"iot-nonprod", "SlackChannelOps"=>"auth-iot-ops-support", "Contacts"=>"galapagos-iot-edit@bose.com"} to alert IoT Product Portal Proxy Service Down
+I, [2025-07-25 18:58:21  #378208]  INFO -- : Added labels: {"severity"=>"Major", "PagerdutyKey"=>"26bb67c57d9846b582cbc3488c7a88e1", "QuotaGroup"=>"iot", "SlackChannel"=>"iot-nonprod", "SlackChannelOps"=>"auth-iot-ops-support", "Contacts"=>"galapagos-iot-edit@bose.com"} to alert IoT Product Portal Back End Service Down
+I, [2025-07-25 18:58:21  #378208]  INFO -- : Added labels: {"severity"=>"Minor", "PagerdutyKey"=>"26bb67c57d9846b582cbc3488c7a88e1", "QuotaGroup"=>"iot", "SlackChannel"=>"iot-nonprod", "SlackChannelOps"=>"auth-iot-ops-support", "Contacts"=>"galapagos-iot-edit@bose.com"} to alert ProductPortalAverageLatencyMinor
+I, [2025-07-25 18:58:21  #378208]  INFO -- : Added labels: {"severity"=>"Minor", "PagerdutyKey"=>"26bb67c57d9846b582cbc3488c7a88e1", "QuotaGroup"=>"iot", "SlackChannel"=>"iot-nonprod", "SlackChannelOps"=>"auth-iot-ops-support", "Contacts"=>"galapagos-iot-edit@bose.com"} to alert ProductPortalErrorRate
+I, [2025-07-25 18:58:21  #378208]  INFO -- : Added labels: {"severity"=>"Minor", "PagerdutyKey"=>"26bb67c57d9846b582cbc3488c7a88e1", "QuotaGroup"=>"iot", "SlackChannel"=>"iot-nonprod", "SlackChannelOps"=>"auth-iot-ops-support", "Contacts"=>"galapagos-iot-edit@bose.com"} to alert ProductPortalBadRequestRate
+I, [2025-07-25 18:58:21  #378208]  INFO -- : Added labels: {"severity"=>"Minor", "PagerdutyKey"=>"26bb67c57d9846b582cbc3488c7a88e1", "QuotaGroup"=>"iot", "SlackChannel"=>"iot-nonprod", "SlackChannelOps"=>"auth-iot-ops-support", "Contacts"=>"galapagos-iot-edit@bose.com"} to alert ProductPortalPotentialSecurityErrorRate
+I, [2025-07-25 18:58:21  #378208]  INFO -- : Added labels: {"severity"=>"Minor", "PagerdutyKey"=>"26bb67c57d9846b582cbc3488c7a88e1", "QuotaGroup"=>"iot", "SlackChannel"=>"iot-nonprod", "SlackChannelOps"=>"auth-iot-ops-support", "Contacts"=>"galapagos-iot-edit@bose.com"} to alert ProductPortalHighRequestRate
+I, [2025-07-25 18:58:21  #378208]  INFO -- : Added labels: {"severity"=>"Major", "PagerdutyKey"=>"26bb67c57d9846b582cbc3488c7a88e1", "QuotaGroup"=>"iot", "SlackChannel"=>"iot-nonprod", "SlackChannelOps"=>"auth-iot-ops-support", "Contacts"=>"galapagos-iot-edit@bose.com"} to alert LWTPodsDown
+I, [2025-07-25 18:58:21  #378208]  INFO -- : Added labels: {"severity"=>"Minor", "PagerdutyKey"=>"26bb67c57d9846b582cbc3488c7a88e1", "QuotaGroup"=>"iot", "SlackChannel"=>"iot-nonprod", "SlackChannelOps"=>"auth-iot-ops-support", "Contacts"=>"galapagos-iot-edit@bose.com"} to alert LWTSqsConsumerErrorRate
+I, [2025-07-25 18:58:21  #378208]  INFO -- : Added labels: {"severity"=>"Major", "PagerdutyKey"=>"26bb67c57d9846b582cbc3488c7a88e1", "QuotaGroup"=>"iot", "SlackChannel"=>"iot-nonprod", "SlackChannelOps"=>"auth-iot-ops-support", "Contacts"=>"galapagos-iot-edit@bose.com"} to alert LWTSqsQueueErrorRate
+I, [2025-07-25 18:58:21  #378208]  INFO -- : Added labels: {"severity"=>"Minor", "PagerdutyKey"=>"26bb67c57d9846b582cbc3488c7a88e1", "QuotaGroup"=>"iot", "SlackChannel"=>"iot-nonprod", "SlackChannelOps"=>"auth-iot-ops-support", "Contacts"=>"galapagos-iot-edit@bose.com"} to alert LWTProductStateErrorRate
+I, [2025-07-25 18:58:21  #378208]  INFO -- : Added labels: {"severity"=>"Minor", "PagerdutyKey"=>"26bb67c57d9846b582cbc3488c7a88e1", "QuotaGroup"=>"iot", "SlackChannel"=>"iot-nonprod", "SlackChannelOps"=>"auth-iot-ops-support", "Contacts"=>"galapagos-iot-edit@bose.com"} to alert LWTOldestMessage
+I, [2025-07-25 18:58:21  #378208]  INFO -- : Added labels: {"severity"=>"Major", "PagerdutyKey"=>"26bb67c57d9846b582cbc3488c7a88e1", "QuotaGroup"=>"iot", "SlackChannel"=>"iot-nonprod", "SlackChannelOps"=>"auth-iot-ops-support", "Contacts"=>"galapagos-iot-edit@bose.com"} to alert IoT Product Type Service
+I, [2025-07-25 18:58:21  #378208]  INFO -- : Added labels: {"severity"=>"Major", "PagerdutyKey"=>"26bb67c57d9846b582cbc3488c7a88e1", "QuotaGroup"=>"iot", "SlackChannel"=>"iot-nonprod", "SlackChannelOps"=>"auth-iot-ops-support", "Contacts"=>"galapagos-iot-edit@bose.com"} to alert ProductTypeErrorRate
+I, [2025-07-25 18:58:21  #378208]  INFO -- : Added labels: {"severity"=>"Minor", "PagerdutyKey"=>"26bb67c57d9846b582cbc3488c7a88e1", "QuotaGroup"=>"iot", "SlackChannel"=>"iot-nonprod", "SlackChannelOps"=>"auth-iot-ops-support", "Contacts"=>"galapagos-iot-edit@bose.com"} to alert ProductTypeRequestDurationMinor
+I, [2025-07-25 18:58:21  #378208]  INFO -- : Added labels: {"severity"=>"Minor", "PagerdutyKey"=>"26bb67c57d9846b582cbc3488c7a88e1", "QuotaGroup"=>"iot", "SlackChannel"=>"iot-nonprod", "SlackChannelOps"=>"auth-iot-ops-support", "Contacts"=>"galapagos-iot-edit@bose.com"} to alert ProductTypeUnexpectedURLMinor
+I, [2025-07-25 18:58:21  #378208]  INFO -- : Added labels: {"severity"=>"Minor", "PagerdutyKey"=>"26bb67c57d9846b582cbc3488c7a88e1", "QuotaGroup"=>"iot", "SlackChannel"=>"iot-nonprod", "SlackChannelOps"=>"auth-iot-ops-support", "Contacts"=>"galapagos-iot-edit@bose.com"} to alert ProductTypeHighRequestRate
+I, [2025-07-25 18:58:21  #378208]  INFO -- : Copying /home/jenkins/agent/workspace/iot/svc-iot-product-activation/latest-test_latest/svc-iot-product-activation/.gauth/nonprod/alert.rules.yaml to /home/jenkins/agent/workspace/iot/svc-iot-product-activation/latest-test_latest/svc-iot-product-activation/.gauth/.gauth/nonprod/custom.rules.yaml
+I, [2025-07-25 18:58:57  #378208]  INFO -- : Nonprod namespaces applied: ["svc-iot-product-activation-feature", "svc-iot-product-activation-integration", "svc-iot-product-activation-latest", "svc-iot-product-activation-smart-acc-old", "svc-iot-product-activation-stage", "svc-iot-product-shadow-castle-63298-test", "svc-iot-product-shadow-castle-63332-p-test", "svc-iot-product-shadow-integration", "svc-iot-product-shadow-latest", "svc-iot-product-shadow-master-test-test", "svc-iot-product-shadow-stage", "dat-iot-product-state-45106-test", "dat-iot-product-state-add-cloudops-kpi", "dat-iot-product-state-add-cors", "dat-iot-product-state-alpha-test", "dat-iot-product-state-castle-36306", "dat-iot-product-state-castle-36711", "dat-iot-product-state-castle-43225-test", "dat-iot-product-state-castle-43553-test", "dat-iot-product-state-castle-45042-test", "dat-iot-product-state-castle-45589-test", "dat-iot-product-state-castle-51053-test", "dat-iot-product-state-castle-51583-test", "dat-iot-product-state-castle-51630-test", "dat-iot-product-state-castle-53843-test", "dat-iot-product-state-castle-53863-test", "dat-iot-product-state-castle-53976-test", "dat-iot-product-state-castle-54116-test", "dat-iot-product-state-castle-54172-test", "dat-iot-product-state-castle-54315-test", "dat-iot-product-state-castle-54317-test", "dat-iot-product-state-castle-54338-test", "dat-iot-product-state-castle-54819-test", "dat-iot-product-state-castle-55028-test", "dat-iot-product-state-castle-55102-test", "dat-iot-product-state-castle-55584-test", "dat-iot-product-state-castle-56424-test", "dat-iot-product-state-castle-56794-test", "dat-iot-product-state-castle-56842-test", "dat-iot-product-state-castle-57471-test", "dat-iot-product-state-castle-60963-test", "dat-iot-product-state-castle-61229-test", "dat-iot-product-state-castle-62845-test", "dat-iot-product-state-castle-62890-test", "dat-iot-product-state-castle-63108-test", "dat-iot-product-state-castle-63297-test", "dat-iot-product-state-cherry-pick", "dat-iot-product-state-cherry-pick-int", "dat-iot-product-state-concurrencyfix-test", "dat-iot-product-state-exp-test", "dat-iot-product-state-f-52872-b-test", "dat-iot-product-state-f-53026-test", "dat-iot-product-state-feat-babyyoda-test", "dat-iot-product-state-feat-iot-pcs-perms", "dat-iot-product-state-feature-30630", "dat-iot-product-state-feature-36306", "dat-iot-product-state-feature-40387", "dat-iot-product-state-feature-40599", "dat-iot-product-state-feature-40741", "dat-iot-product-state-feature-41228", "dat-iot-product-state-feature-41712", "dat-iot-product-state-feature-41809", "dat-iot-product-state-feature-42448", "dat-iot-product-state-feature-42448-2", "dat-iot-product-state-feature-42508", "dat-iot-product-state-feature-43492", "dat-iot-product-state-feature-43843", "dat-iot-product-state-feature-alpha", "dat-iot-product-state-feature-beta", "dat-iot-product-state-feature-bugfix", "dat-iot-product-state-feature-cfg-pub", "dat-iot-product-state-feature-cleanup", "dat-iot-product-state-feature-deephealth", "dat-iot-product-state-feature-delete", "dat-iot-product-state-feature-firehose", "dat-iot-product-state-feature-generate", "dat-iot-product-state-feature-goupdate", "dat-iot-product-state-feature-gva-test", "dat-iot-product-state-feature-gvatest", "dat-iot-product-state-feature-iot-mr4", "dat-iot-product-state-feature-mr2", "dat-iot-product-state-feature-msg", "dat-iot-product-state-feature-pprof", "dat-iot-product-state-feature-proxy", "dat-iot-product-state-feature-publish", "dat-iot-product-state-feature-quickfix", "dat-iot-product-state-feature-revert", "dat-iot-product-state-feature-riomodel", "dat-iot-product-state-feature-rm-pub", "dat-iot-product-state-feature-roles", "dat-iot-product-state-feature-setupstate", "dat-iot-product-state-feature-spike-move", "dat-iot-product-state-feature-test", "dat-iot-product-state-feature-vsk", "dat-iot-product-state-firehose-test", "dat-iot-product-state-fix-apigee", "dat-iot-product-state-fix-castle-2782", "dat-iot-product-state-fix-gva-sidecar", "dat-iot-product-state-fix-prod-auth", "dat-iot-product-state-ft-36542", "dat-iot-product-state-ft-52872-test", "dat-iot-product-state-ft-62640-test", "dat-iot-product-state-ft-add-track", "dat-iot-product-state-ft-apache-pub", "dat-iot-product-state-ft-apache-test", "dat-iot-product-state-ft-atlas-test", "dat-iot-product-state-ft-db-update", "dat-iot-product-state-ft-docker", "dat-iot-product-state-ft-headers", "dat-iot-product-state-ft-mgo", "dat-iot-product-state-ft-pulsar-lib", "dat-iot-product-state-hotfix-alpha", "dat-iot-product-state-hotfix-release", "dat-iot-product-state-int-test", "dat-iot-product-state-integration", "dat-iot-product-state-integration-exp-test", "dat-iot-product-state-integration-test", "dat-iot-product-state-iot-castle-37743", "dat-iot-product-state-iot-revel-luanch", "dat-iot-product-state-latest", "dat-iot-product-state-latest-test", "dat-iot-product-state-long-requests", "dat-iot-product-state-msg-format", "dat-iot-product-state-net-fix-typo-test", "dat-iot-product-state-ops-stage", "dat-iot-product-state-perf-test-43159", "dat-iot-product-state-perf-test-47034", "dat-iot-product-state-prod-test", "dat-iot-product-state-rate-limit", "dat-iot-product-state-rate-limit-copy", "dat-iot-product-state-stage", "dat-iot-product-state-timeouthf-test", "svc-iot-product-state-exp-test", "svc-iot-product-state-integration", "svc-iot-product-state-latest", "svc-iot-product-state-stage", "dat-iot-product-profile-49299-test", "dat-iot-product-profile-51223-test", "dat-iot-product-profile-add-pui-alpha", "dat-iot-product-profile-bump-test", "dat-iot-product-profile-castle-36306", "dat-iot-product-profile-castle-43554", "dat-iot-product-profile-castle-43554-test", "dat-iot-product-profile-castle-49299-test", "dat-iot-product-profile-castle-51223-test", "dat-iot-product-profile-daveperm-test", "dat-iot-product-profile-feat-iot-pcs-perms", "dat-iot-product-profile-feat-unit-tests", "dat-iot-product-profile-feature-23390", "dat-iot-product-profile-feature-36306", "dat-iot-product-profile-feature-41172", "dat-iot-product-profile-feature-41811", "dat-iot-product-profile-feature-42934", "dat-iot-product-profile-feature-alex", "dat-iot-product-profile-feature-goupdate", "dat-iot-product-profile-feature-iotack", "dat-iot-product-profile-feature-mr2", "dat-iot-product-profile-feature-pui-class", "dat-iot-product-profile-feature-test", "dat-iot-product-profile-feature-vsk", "dat-iot-product-profile-fix-castle-2782", "dat-iot-product-profile-ft-atlas-test", "dat-iot-product-profile-gomod-test", "dat-iot-product-profile-gomod2-test", "dat-iot-product-profile-gomodfix-test", "dat-iot-product-profile-hotfix-harbor", "dat-iot-product-profile-hotfix-harbor-test", "dat-iot-product-profile-integration", "dat-iot-product-profile-integration-test", "dat-iot-product-profile-iot-profile-pp-perms", "dat-iot-product-profile-latest", "dat-iot-product-profile-latest-test", "dat-iot-product-profile-prod-test", "dat-iot-product-profile-stage", "dat-iot-product-profile-upgrade-test", "svc-iot-product-profile-integration", "svc-iot-product-profile-latest", "svc-iot-product-profile-stage", "dat-iot-lwt-state-castle-23061-fixes", "dat-iot-lwt-state-castle-41812", "dat-iot-lwt-state-castle-42929", "dat-iot-lwt-state-castle-51427", "dat-iot-lwt-state-feature-rate-limit", "dat-iot-lwt-state-fix-prod-logs", "dat-iot-lwt-state-fix-redis-logs", "dat-iot-lwt-state-integration", "dat-iot-lwt-state-integration-test", "dat-iot-lwt-state-latest", "dat-iot-lwt-state-prod", "dat-iot-lwt-state-prod-test", "dat-iot-lwt-state-rate-limit", "dat-iot-lwt-state-stage", "dat-iot-lwt-state-state", "svc-iot-lwt-state-stage", "svc-iot-product-info-integration", "svc-iot-product-info-latest", "svc-iot-product-info-stage", "svc-iot-msg-bridge-integration", "svc-iot-msg-bridge-latest", "svc-iot-msg-bridge-stage", "svc-iot-product-event-integration", "svc-iot-product-event-latest", "svc-iot-product-event-stage", "dat-iot-product-config-castle-37130", "dat-iot-product-config-harbor-switch", "dat-iot-product-config-latest", "svc-iot-product-config-latest", "svc-fenestra-ssi-castle-61719-test", "svc-fenestra-ssi-feature", "svc-fenestra-ssi-feature-test", "svc-fenestra-ssi-integration", "svc-fenestra-ssi-latest", "svc-iot-product-portal-fe-integration", "svc-iot-product-portal-fe-latest", "dat-iot-product-portal-proxy-castle-48212", "dat-iot-product-portal-proxy-castle-48212-test", "dat-iot-product-portal-proxy-castle-49272-test", "dat-iot-product-portal-proxy-castle-49529-test", "dat-iot-product-portal-proxy-castle-50312-test", "dat-iot-product-portal-proxy-castle-51631-test", "dat-iot-product-portal-proxy-castle-51632-test", "dat-iot-product-portal-proxy-castle-53672-test", "dat-iot-product-portal-proxy-castle-53889-test", "dat-iot-product-portal-proxy-castle-54141-test", "dat-iot-product-portal-proxy-castle-55826-test", "dat-iot-product-portal-proxy-castle-57450-test", "dat-iot-product-portal-proxy-castle-58285-test", "dat-iot-product-portal-proxy-castle-58728-test", "dat-iot-product-portal-proxy-castle-59130-test", "dat-iot-product-portal-proxy-castle-61183-test", "dat-iot-product-portal-proxy-castle-61783-test", "dat-iot-product-portal-proxy-init", "dat-iot-product-portal-proxy-integration", "dat-iot-product-portal-proxy-integration-test", "dat-iot-product-portal-proxy-latest", "dat-iot-product-portal-proxy-latest-test", "dat-iot-product-portal-proxy-openconsort-test", "dat-iot-product-portal-proxy-prod-test", "svc-iot-product-portal-proxy-integration", "svc-iot-product-portal-proxy-latest", "svc-iot-product-portal-mgr-castle-63026-test", "svc-iot-product-portal-mgr-integration", "svc-iot-product-portal-mgr-latest", "svc-iot-lwt-integration", "svc-iot-lwt-latest", "dat-iot-mfi-token-52290-test", "dat-iot-mfi-token-52291-test", "dat-iot-mfi-token-castle-52290-test", "dat-iot-mfi-token-castle-52291-test", "dat-iot-mfi-token-castle-52292-test", "dat-iot-mfi-token-castle-52293-test", "dat-iot-mfi-token-castle-52294-test", "dat-iot-mfi-token-castle-52398-test", "dat-iot-mfi-token-castle-52577-test", "dat-iot-mfi-token-fixuuid-test", "dat-iot-mfi-token-integration", "dat-iot-mfi-token-integration-test", "dat-iot-mfi-token-latest", "dat-iot-mfi-token-latest-test", "dat-iot-mfi-token-nodbinit-test", "dat-iot-mfi-token-prelim-test", "svc-iot-mfi-token-integration", "svc-iot-mfi-token-latest", "svc-iot-mfi-token-stage", "svc-iot-product-type-integration", "svc-iot-product-type-latest", "svc-iot-product-type-stage", "svc-devops-auth-smoketest-avinashtest", "svc-devops-auth-smoketest-stable", "svc-devops-auth-smoketest-stable-test", "svc-devops-auth-smoketest-stagetest", "svc-iot-btu-fe-atp", "svc-iot-btu-fe-atp-buds", "svc-iot-btu-fe-bs-routert-test", "svc-iot-btu-fe-develop-test", "svc-iot-btu-fe-integration", "svc-iot-btu-fe-latest", "svc-iot-btu-fe-stagingreleased"]
+I, [2025-07-25 18:58:58  #378208]  INFO -- : Launching Monitoring
+I, [2025-07-25 18:58:58  #378208]  INFO -- : ProcessNonProd: true, ProcessProd: false
+I, [2025-07-25 18:58:58  #378208]  INFO -- : Executing /home/jenkins/agent/workspace/iot/svc-iot-product-activation/latest-test_latest/svc-iot-product-activation/core-dev-tools/micro/micro.py deploy -f /home/jenkins/agent/workspace/iot/svc-iot-product-activation/latest-test_latest/svc-iot-product-activation/.gauth/.gauth/nonprod/micro.yaml --env nonprod --skip-gauth
+2025-07-25 18:58:58 INFO: Getting inside cluster name
+2025-07-25 18:58:58 INFO: nameserver 100.64.0.10
+
+2025-07-25 18:58:58 INFO: search core-operations-jenkins-deployer-prod.svc.cluster.live-aws-useast1 svc.cluster.live-aws-useast1 cluster.live-aws-useast1 live-aws-useast1.bose.io
+
+2025-07-25 18:58:58 INFO: Detected Kubernetes Cluster: live-aws-useast1
+2025-07-25 18:58:58 INFO: using environment variable value "nonprod-registry.bose.io" for registry
+2025-07-25 18:58:58 INFO: Changing directory to /home/jenkins/agent/workspace/iot/svc-iot-product-activation/latest-test_latest/svc-iot-product-activation/.gauth/.gauth/nonprod
+2025-07-25 18:58:58 INFO: validating project file config ...
+2025-07-25 18:58:58 INFO: Using Project File: /home/jenkins/agent/workspace/iot/svc-iot-product-activation/latest-test_latest/svc-iot-product-activation/.gauth/.gauth/nonprod/micro.yaml
+2025-07-25 18:58:58 INFO: Workspace Root: /home/jenkins/agent/workspace/iot/svc-iot-product-activation/latest-test_latest/svc-iot-product-activation/.gauth/.gauth/nonprod
+2025-07-25 18:58:58 INFO: Micro defines: {}
+2025-07-25 18:58:58 INFO: http://core-devops-nexus-core.svc-core-devops-nexus-prod.svc.cluster.live-aws-useast1:8081/dev/svc-core-devops-nexus/prod/core-devops-nexus-core/repository/devops-gems/
+2025-07-25 18:58:58 INFO: Resource Templates Home /home/jenkins/agent/workspace/iot/svc-iot-product-activation/latest-test_latest/svc-iot-product-activation/core-dev-tools/micro/config/resources/templates/smoketest/
+2025-07-25 18:58:58 INFO: Options
+2025-07-25 18:58:58 INFO: {'items': None, 'environment': 'nonprod', 'override_environment': 'nonprod', 'tag': 'latest', 'registry': 'nonprod-registry.bose.io', 'skip_stateful': False, 'auto_rollback': False, 'create_apigee_proxy': False, 'create_ha_proxy': False, 'input': '/home/jenkins/agent/workspace/iot/svc-iot-product-activation/latest-test_latest/svc-iot-product-activation/.gauth/.gauth/nonprod/micro.yaml', 'performance_test': None, 'defines': {}, 'create_variable_annotations': False, 'compare': False, 'just_generate': False, 'registry_username': None, 'registry_password': None, 'skip_gauth': True, 'no_quotas': False, 'gauth': 'gauth', 'replicas': None, 'master_url': None, 'status_url': None, 'repository': None, 'sha': None, 'deploy_ticket': None, 'delete_deployments': None, 'delete_cronjobs': None, 'apigee_env': None, 's3_tarball': None, 'oidc_user_url': None, 'platform_env': None, 'quota_group': None, 'placement': None, 'force': None, 'debug': None, 'no_op': None, 'sudo': None, 'cluster_name': 'live-aws-useast1', 'minikube': False, 'cluster': 'live-aws-useast1', 'global_overrides_file': '/home/jenkins/agent/workspace/iot/svc-iot-product-activation/latest-test_latest/svc-iot-product-activation/core-dev-tools/micro/config/resources/overrides/global-rules.yaml', 'config': None, 'output': '.env', 'id': 'erroneous', 'env_group': 'ungrouped', 'ingress_host': 'ingress-platform.live-aws-useast1.bose.io', 'ingress_port': 80, 'ingress_protocol': 'https'}
+2025-07-25 18:58:58 INFO: applying modifier modify nonprod prometheus instance
+2025-07-25 18:58:58 INFO: validating project file config ...
+2025-07-25 18:58:58 INFO: validating project file config ...
+2025-07-25 18:58:59 INFO: Applying Overrides for Quota Group: all from /home/jenkins/agent/workspace/iot/svc-iot-product-activation/latest-test_latest/svc-iot-product-activation/core-dev-tools/micro/config/resources/overrides/global-rules.yaml
+2025-07-25 18:58:59 INFO: validating project file config ...
+2025-07-25 18:58:59 INFO: SD Url: http://discovery-core.svc-discovery-prod.svc.cluster.live-aws-useast1:3000/dev/svc-discovery/prod/discovery-core/
+2025-07-25 18:58:59 INFO: micro namespace: auth-iot-nonprod
+2025-07-25 18:58:59 INFO: Adding default pre-stop sleep of 15 seconds for container watchcar
+2025-07-25 18:58:59 INFO: Adding default pre-stop sleep of 15 seconds for container prometheus
+2025-07-25 18:58:59 INFO: Adding default pre-stop sleep of 15 seconds for container grafana
+2025-07-25 18:58:59 DEBUG: creating definition for provider resource "prometheus2" of kind "PersistentVolumeClaim"
+2025-07-25 18:58:59 DEBUG: creating definition for provider resource "grafana" of kind "PersistentVolumeClaim"
+2025-07-25 18:58:59 DEBUG: creating definition for provider resource "watchcar" of kind "ConfigMap"
+2025-07-25 18:58:59 DEBUG: creating definition for provider resource "pv-prometheus" of kind "PersistentVolumeClaim"
+2025-07-25 18:58:59 DEBUG: creating definition for provider resource "projected-volume-grafana-datasource" of kind "PersistentVolumeClaim"
+2025-07-25 18:58:59 DEBUG: creating definition for provider resource "config-map-grafana-datasource" of kind "ConfigMap"
+2025-07-25 18:58:59 DEBUG: creating definition for provider resource "projected-volume-grafana-config" of kind "PersistentVolumeClaim"
+2025-07-25 18:58:59 DEBUG: creating definition for provider resource "config-map-grafana-config" of kind "ConfigMap"
+2025-07-25 18:58:59 DEBUG: creating definition for provider resource "config-map-prometheus" of kind "ConfigMap"
+2025-07-25 18:58:59 DEBUG: creating definition for provider resource "config-map-alert-rules" of kind "ConfigMap"
+2025-07-25 18:58:59 DEBUG: creating definition for provider resource "custom-config-map-alert-rules" of kind "ConfigMap"
+2025-07-25 18:58:59 DEBUG: creating definition for provider resource "prometheus" of kind "Deployment"
+2025-07-25 18:58:59 DEBUG: creating definition for provider resource "prometheus" of kind "Service"
+2025-07-25 18:58:59 DEBUG: creating definition for provider resource "bose-prometheus" of kind "Ingress"
+2025-07-25 18:58:59 INFO: Built Ingress URL: https://ingress-platform.live-aws-useast1.bose.io:80/dev/auth-iot/nonprod/prometheus
+2025-07-25 18:58:59 INFO: generated configMap hash: 051d8f0f1b647152ccbf48ab1428b8d2
+2025-07-25 18:58:59 DEBUG: creating definition for provider resource "grafana" of kind "Deployment"
+2025-07-25 18:58:59 DEBUG: creating definition for provider resource "grafana" of kind "Service"
+2025-07-25 18:58:59 DEBUG: creating definition for provider resource "bose-grafana" of kind "Ingress"
+2025-07-25 18:58:59 INFO: Built Ingress URL: https://ingress-platform.live-aws-useast1.bose.io:80/dev/auth-iot/nonprod/grafana
+2025-07-25 18:58:59 INFO: env resources not given, calculating sum of max container resources/instances:
+2025-07-25 18:58:59 INFO: Container: watchcar, Instances: 1, Total CPU: 0.1, Memory: 64
+2025-07-25 18:58:59 INFO: Container: prometheus, Instances: 1, Total CPU: 3, Memory: 24000
+2025-07-25 18:58:59 INFO: Container: grafana, Instances: 1, Total CPU: 1, Memory: 4096
+2025-07-25 18:58:59 INFO: Calculated Total Resources (WithTests=False) = {"cpu": 4.1, "memory": 28160}
+2025-07-25 18:58:59 INFO: Calling cluster_resource_check(). Failures are ignored and recorded in a slack channel #cluster-resource-check
+2025-07-25 18:58:59 INFO: Total available Cluster Resources for ops are CPU: 100.45 (cores) and Memory 1005.5724868774414 GiB
+2025-07-25 18:58:59 INFO:   Component Being Deployed: prometheus
+2025-07-25 18:58:59 INFO: Calculated Total Resources for Component: prometheus = {"cpu": 3.1, "memory": 24064}
+2025-07-25 18:58:59 INFO: Found existing Deployment: prometheus Current Resources: {'mem_req': 15567.0, 'cpu_req': 1.05, 'cpu_limit': 3.1, 'mem_limit': 24064.0}
+2025-07-25 18:58:59 INFO:   Component Being Deployed: grafana
+2025-07-25 18:58:59 INFO: Calculated Total Resources for Component: grafana = {"cpu": 1, "memory": 4096}
+2025-07-25 18:58:59 INFO: Found existing Deployment: grafana Current Resources: {'mem_req': 1024.0, 'cpu_req': 0.3, 'cpu_limit': 1.0, 'mem_limit': 4096.0}
+2025-07-25 18:58:59 INFO: No increase in CPU or Memory required (0,0)
+2025-07-25 18:58:59 INFO: No Quotas are applied to this namespace/placement.
+2025-07-25 18:58:59 DEBUG: creating definition for provider resource "quota" of kind "ResourceQuota"
+2025-07-25 18:58:59 INFO: No quota resource applied.
+2025-07-25 18:58:59 INFO: Setting Namespace Limits: CPU: 4.1, Memory: 28160.0
+2025-07-25 18:58:59 INFO: Container: watchcar, Instances: 1, Total CPU: 0.1, Memory: 64
+2025-07-25 18:58:59 INFO: Container: prometheus, Instances: 1, Total CPU: 3, Memory: 24000NAME               STATUS   AGE
+auth-iot-nonprod   Active   7y30d
+namespace/auth-iot-secrets configured
+rolebinding.rbac.authorization.k8s.io/auth-iot-secrets-admin unchanged
+namespace/auth-iot-nonprod unchanged
+rolebinding.rbac.authorization.k8s.io/auth-iot-nonprod-admin unchanged
+rolebinding.rbac.authorization.k8s.io/auth-iot-nonprod-admin-contacts-access created
+persistentvolumeclaim/prometheus2 unchanged
+persistentvolumeclaim/grafana unchanged
+configmap/watchcar unchanged
+persistentvolumeclaim/pv-prometheus unchanged
+persistentvolumeclaim/projected-volume-grafana-datasource unchanged
+configmap/config-map-grafana-datasource unchanged
+persistentvolumeclaim/projected-volume-grafana-config unchanged
+configmap/config-map-grafana-config unchanged
+configmap/config-map-prometheus configured
+configmap/config-map-alert-rules unchanged
+configmap/custom-config-map-alert-rules unchanged
+
+2025-07-25 18:58:59 INFO: Container: grafana, Instances: 1, Total CPU: 1, Memory: 4096
+2025-07-25 18:58:59 INFO: Calculated Total Resources (WithTests=False) = {"cpu": 4.1, "memory": 28160}
+2025-07-25 18:58:59 DEBUG: creating definition for provider resource "auth-iot-nonprod" of kind "Namespace"
+2025-07-25 18:58:59 INFO: checking if environment nonprod exists
+2025-07-25 18:58:59 INFO: environment nonprod already exists, will update
+2025-07-25 18:58:59 DEBUG: creating definition for provider resource "auth-iot-secrets" of kind "Namespace"
+2025-07-25 18:58:59 INFO:   Component Being Deployed: prometheus
+2025-07-25 18:58:59 INFO: Calculated Total Resources for Component: prometheus = {"cpu": 3.1, "memory": 24064}
+2025-07-25 18:58:59 INFO: Found existing Deployment: prometheus Current Resources: {'mem_req': 15567.0, 'cpu_req': 1.05, 'cpu_limit': 3.1, 'mem_limit': 24064.0}
+2025-07-25 18:58:59 INFO:   Component Being Deployed: grafana
+2025-07-25 18:58:59 INFO: Calculated Total Resources for Component: grafana = {"cpu": 1, "memory": 4096}
+2025-07-25 18:58:59 INFO: Found existing Deployment: grafana Current Resources: {'mem_req': 1024.0, 'cpu_req': 0.3, 'cpu_limit': 1.0, 'mem_limit': 4096.0}
+2025-07-25 18:58:59 INFO: No increase in CPU or Memory required (0,0)
+2025-07-25 18:58:59 INFO: Applying ResourceQuota on auth-iot-nonprod with CPU=6.1499999999999995, Memory=42240.0
+2025-07-25 18:58:59 DEBUG: creating definition for provider resource "quota" of kind "ResourceQuota"
+2025-07-25 18:58:59 INFO: running deploy on units: nonprod, prometheus2, grafana, watchcar, pv-prometheus, projected-volume-grafana-datasource, config-map-grafana-datasource, projected-volume-grafana-config, config-map-grafana-config, config-map-prometheus, config-map-alert-rules, custom-config-map-alert-rules, prometheus, grafana
+2025-07-25 18:58:59 INFO: deploying environment: nonprod
+2025-07-25 18:58:59 INFO: Deploying Secrets Namespace: auth-iot-secrets
+2025-07-25 18:58:59 INFO: creating/updating Namespace: auth-iot-secrets
+2025-07-25 18:59:00 DEBUG: creating definition for provider resource "secrets" of kind "RoleBinding"
+2025-07-25 18:59:00 INFO: creating/updating RoleBinding: secrets
+2025-07-25 18:59:00 INFO: Setting up Namespace: auth-iot-nonprod
+2025-07-25 18:59:00 INFO: creating/updating Namespace: auth-iot-nonprod
+2025-07-25 18:59:00 INFO: Setting up RoleBindings for auth-iot-nonprod-auth-iot-nonprod
+2025-07-25 18:59:00 DEBUG: creating definition for provider resource "auth-iot-nonprod" of kind "RoleBinding"
+2025-07-25 18:59:00 INFO: creating/updating RoleBinding: auth-iot-nonprod
+2025-07-25 18:59:00 INFO: Adding contacts
+2025-07-25 18:59:00 INFO: No Security distribution list prefix found for quota_group None
+2025-07-25 18:59:00 DEBUG: creating definition for provider resource "platform.bose.io:micro-admin" of kind "RoleBinding"
+2025-07-25 18:59:00 INFO: creating/updating RoleBinding: platform.bose.io:micro-admin
+2025-07-25 18:59:00 INFO: No quota resource applied.
+2025-07-25 18:59:00 INFO: deploying volume: prometheus2
+2025-07-25 18:59:00 INFO: creating/updating PersistentVolumeClaim: prometheus2
+2025-07-25 18:59:00 INFO: deploying volume: grafana
+2025-07-25 18:59:00 INFO: creating/updating PersistentVolumeClaim: grafana
+2025-07-25 18:59:01 INFO: deploying volume: watchcar
+2025-07-25 18:59:01 INFO: Processed configMap contents from: watchcar.yaml
+2025-07-25 18:59:01 INFO: creating/updating ConfigMap: watchcar
+2025-07-25 18:59:01 INFO: deploying volume: pv-prometheus
+2025-07-25 18:59:01 INFO: creating/updating PersistentVolumeClaim: pv-prometheus
+2025-07-25 18:59:01 INFO: deploying volume: projected-volume-grafana-datasource
+2025-07-25 18:59:01 INFO: creating/updating PersistentVolumeClaim: projected-volume-grafana-datasource
+2025-07-25 18:59:01 INFO: deploying volume: config-map-grafana-datasource
+2025-07-25 18:59:01 INFO: Processed configMap contents from: grafana-datasource.yaml
+2025-07-25 18:59:01 INFO: creating/updating ConfigMap: config-map-grafana-datasource
+2025-07-25 18:59:01 INFO: deploying volume: projected-volume-grafana-config
+2025-07-25 18:59:01 INFO: creating/updating PersistentVolumeClaim: projected-volume-grafana-config
+2025-07-25 18:59:01 INFO: deploying volume: config-map-grafana-config
+2025-07-25 18:59:01 INFO: Processed configMap contents from: grafana.ini
+2025-07-25 18:59:01 INFO: creating/updating ConfigMap: config-map-grafana-config
+2025-07-25 18:59:02 INFO: deploying volume: config-map-prometheus
+2025-07-25 18:59:02 INFO: Processed configMap contents from: config.yml
+2025-07-25 18:59:02 INFO: creating/updating ConfigMap: config-map-prometheus
+2025-07-25 18:59:02 INFO: deploying volume: config-map-alert-rules
+2025-07-25 18:59:02 INFO: Processed configMap contents from: alert.rules.yml
+2025-07-25 18:59:02 INFO: creating/updating ConfigMap: config-map-alert-rules
+2025-07-25 18:59:02 INFO: deploying volume: custom-config-map-alert-rules
+2025-07-25 18:59:02 INFO: Processed configMap contents from: custom.rules.yaml
+2025-07-25 18:59:02 INFO: creating/updating ConfigMap: custom-config-map-alert-rules
+2025-07-25 18:59:02 INFO: deploying stateless-component: prometheus
+2025-07-25 18:59:02 INFO: prom/prometheus:v2.14.0
+2025-07-25 18:59:02 INFO: Skipping deployment of stateless component: prometheus
+2025-07-25 18:59:02 INFO: deploying stateless-component: grafana
+2025-07-25 18:59:02 INFO: grafana/grafana:9.4.7
+2025-07-25 18:59:02 INFO: Skipping deployment of stateless component: grafana
+2025-07-25 18:59:02 INFO: Calling cluster_resource_check(). Failures are ignored and recorded in a slack channel #cluster-resource-check
+2025-07-25 18:59:02 INFO: Total available Cluster Resources for ops are CPU: 100.45 (cores) and Memory 1005.5724868774414 GiB
+2025-07-25 18:59:02 INFO:   Component Being Deployed: prometheus
+2025-07-25 18:59:02 INFO: Calculated Total Resources for Component: prometheus = {"cpu": 3.1, "memory": 24064}
+2025-07-25 18:59:02 INFO: Found existing Deployment: prometheus Current Resources: {'mem_req': 15567.0, 'cpu_req': 1.05, 'cpu_limit': 3.1, 'mem_limit': 24064.0}
+2025-07-25 18:59:02 INFO:   Component Being Deployed: grafana
+2025-07-25 18:59:02 INFO: Calculated Total Resources for Component: grafana = {"cpu": 1, "memory": 4096}
+2025-07-25 18:59:02 INFO: Found existing Deployment: grafana Current Resources: {'mem_req': 1024.0, 'cpu_req': 0.3, 'cpu_limit': 1.0, 'mem_limit': 4096.0}
+2025-07-25 18:59:02 INFO: No increase in CPU or Memory required (0,0)
+2025-07-25 18:59:02 INFO: No Quotas are applied to this namespace/placement.
+2025-07-25 18:59:02 DEBUG: creating definition for provider resource "quota" of kind "ResourceQuota"
+2025-07-25 18:59:02 INFO: No quota resource applied.
+2025-07-25 18:59:02 INFO: Setting Namespace Limits: CPU: 4.1, Memory: 28160.0
+2025-07-25 18:59:02 INFO: Deployment 100% finished
+2025-07-25 18:59:02 INFO: successfully ran deploy on units: nonprod, prometheus2, grafana, watchcar, pv-prometheus, projected-volume-grafana-datasource, config-map-grafana-datasource, projected-volume-grafana-config, config-map-grafana-config, config-map-prometheus, config-map-alert-rules, custom-config-map-alert-rules, prometheus, grafana
+2025-07-25 18:59:02 SUCCESS: action completed without detecting any errors
+2025-07-25 18:59:02 INFO: sending info to dashboard webhook: http://cloudops-service.svc-cloudops-prod.svc.cluster.live-aws-useast1:3000/dev/svc-cloudops/prod/cloudops-service/micro
+true
+I, [2025-07-25 18:59:03  #378208]  INFO -- : Executing /home/jenkins/agent/workspace/iot/svc-iot-product-activation/latest-test_latest/svc-iot-product-activation/core-dev-tools/micro/micro.py deploy -f /home/jenkins/agent/workspace/iot/svc-iot-product-activation/latest-test_latest/svc-iot-product-activation/.gauth/.gauth/nonprod/micro_grafana_cron.yaml --env secrets --skip-gauth
+NAME               STATUS   AGE
+auth-iot-secrets   Active   7y30d
+namespace/auth-iot-secrets configured
+rolebinding.rbac.authorization.k8s.io/auth-iot-secrets-admin unchanged
+namespace/auth-iot-secrets configured
+rolebinding.rbac.authorization.k8s.io/auth-iot-secrets-admin unchanged
+rolebinding.rbac.authorization.k8s.io/auth-iot-secrets-admin-contacts-access created
+cronjob.batch "gsync-nonprod" deleted
+cronjob.batch/gsync-nonprod created
+2025-07-25 18:59:03 INFO: Getting inside cluster name
+2025-07-25 18:59:03 INFO: nameserver 100.64.0.10
+
+2025-07-25 18:59:03 INFO: search core-operations-jenkins-deployer-prod.svc.cluster.live-aws-useast1 svc.cluster.live-aws-useast1 cluster.live-aws-useast1 live-aws-useast1.bose.io
+
+2025-07-25 18:59:03 INFO: Detected Kubernetes Cluster: live-aws-useast1
+2025-07-25 18:59:03 INFO: using environment variable value "nonprod-registry.bose.io" for registry
+2025-07-25 18:59:03 INFO: Changing directory to /home/jenkins/agent/workspace/iot/svc-iot-product-activation/latest-test_latest/svc-iot-product-activation/.gauth/.gauth/nonprod
+2025-07-25 18:59:03 INFO: validating project file config ...
+2025-07-25 18:59:03 INFO: Using Project File: /home/jenkins/agent/workspace/iot/svc-iot-product-activation/latest-test_latest/svc-iot-product-activation/.gauth/.gauth/nonprod/micro_grafana_cron.yaml
+2025-07-25 18:59:03 INFO: Workspace Root: /home/jenkins/agent/workspace/iot/svc-iot-product-activation/latest-test_latest/svc-iot-product-activation/.gauth/.gauth/nonprod
+2025-07-25 18:59:03 INFO: Micro defines: {}
+2025-07-25 18:59:03 INFO: http://core-devops-nexus-core.svc-core-devops-nexus-prod.svc.cluster.live-aws-useast1:8081/dev/svc-core-devops-nexus/prod/core-devops-nexus-core/repository/devops-gems/
+2025-07-25 18:59:03 INFO: Resource Templates Home /home/jenkins/agent/workspace/iot/svc-iot-product-activation/latest-test_latest/svc-iot-product-activation/core-dev-tools/micro/config/resources/templates/smoketest/
+2025-07-25 18:59:03 INFO: Options
+2025-07-25 18:59:03 INFO: {'items': None, 'environment': 'secrets', 'override_environment': 'secrets', 'tag': 'latest', 'registry': 'nonprod-registry.bose.io', 'skip_stateful': False, 'auto_rollback': False, 'create_apigee_proxy': False, 'create_ha_proxy': False, 'input': '/home/jenkins/agent/workspace/iot/svc-iot-product-activation/latest-test_latest/svc-iot-product-activation/.gauth/.gauth/nonprod/micro_grafana_cron.yaml', 'performance_test': None, 'defines': {}, 'create_variable_annotations': False, 'compare': False, 'just_generate': False, 'registry_username': None, 'registry_password': None, 'skip_gauth': True, 'no_quotas': False, 'gauth': 'gauth', 'replicas': None, 'master_url': None, 'status_url': None, 'repository': None, 'sha': None, 'deploy_ticket': None, 'delete_deployments': None, 'delete_cronjobs': None, 'apigee_env': None, 's3_tarball': None, 'oidc_user_url': None, 'platform_env': None, 'quota_group': None, 'placement': None, 'force': None, 'debug': None, 'no_op': None, 'sudo': None, 'cluster_name': 'live-aws-useast1', 'minikube': False, 'cluster': 'live-aws-useast1', 'global_overrides_file': '/home/jenkins/agent/workspace/iot/svc-iot-product-activation/latest-test_latest/svc-iot-product-activation/core-dev-tools/micro/config/resources/overrides/global-rules.yaml', 'config': None, 'output': '.env', 'id': 'erroneous', 'env_group': 'ungrouped', 'ingress_host': 'ingress-platform.live-aws-useast1.bose.io', 'ingress_port': 80, 'ingress_protocol': 'https'}
+2025-07-25 18:59:03 INFO: validating project file config ...
+2025-07-25 18:59:03 INFO: Applying Overrides for Quota Group: all from /home/jenkins/agent/workspace/iot/svc-iot-product-activation/latest-test_latest/svc-iot-product-activation/core-dev-tools/micro/config/resources/overrides/global-rules.yaml
+2025-07-25 18:59:03 INFO: validating project file config ...
+2025-07-25 18:59:03 INFO: SD Url: http://discovery-core.svc-discovery-prod.svc.cluster.live-aws-useast1:3000/dev/svc-discovery/prod/discovery-core/
+2025-07-25 18:59:03 INFO: micro namespace: auth-iot-secrets
+2025-07-25 18:59:03 INFO: Adding default pre-stop sleep of 15 seconds for container gsync-nonprod
+2025-07-25 18:59:03 DEBUG: creating definition for provider resource "gsync-nonprod" of kind "CronJob"
+2025-07-25 18:59:03 INFO: env resources not given, calculating sum of max container resources/instances:
+2025-07-25 18:59:03 INFO: Container: gsync-nonprod, Instances: 1, Total CPU: 1, Memory: 4096
+2025-07-25 18:59:03 INFO: Calculated Total Resources (WithTests=False) = {"cpu": 1, "memory": 4096}
+2025-07-25 18:59:03 INFO: Calling cluster_resource_check(). Failures are ignored and recorded in a slack channel #cluster-resource-check
+2025-07-25 18:59:03 INFO: Total available Cluster Resources for ops are CPU: 100.45 (cores) and Memory 1005.5724868774414 GiB
+2025-07-25 18:59:03 INFO:   Component Being Deployed: gsync-nonprod
+2025-07-25 18:59:03 INFO: Calculated Total Resources for Component: gsync-nonprod = {"cpu": 1, "memory": 4096}
+2025-07-25 18:59:03 INFO: Found existing Cronjob: gsync-nonprod Current Resources: {'mem_req': 1024.0, 'cpu_req': 0.3, 'cpu_limit': 1.0, 'mem_limit': 4096.0}
+2025-07-25 18:59:03 INFO: No increase in CPU or Memory required (0,0)
+2025-07-25 18:59:03 INFO: No Quotas are applied to this namespace/placement.
+2025-07-25 18:59:03 DEBUG: creating definition for provider resource "quota" of kind "ResourceQuota"
+2025-07-25 18:59:03 INFO: No quota resource applied.
+2025-07-25 18:59:03 INFO: Setting Namespace Limits: CPU: 3.0, Memory: 12288.0
+2025-07-25 18:59:03 INFO: Container: gsync-nonprod, Instances: 1, Total CPU: 1, Memory: 4096
+2025-07-25 18:59:03 INFO: Calculated Total Resources (WithTests=False) = {"cpu": 1, "memory": 4096}
+2025-07-25 18:59:03 DEBUG: creating definition for provider resource "auth-iot-secrets" of kind "Namespace"
+2025-07-25 18:59:03 INFO: checking if environment secrets exists
+2025-07-25 18:59:03 INFO: environment secrets already exists, will update
+2025-07-25 18:59:03 DEBUG: creating definition for provider resource "auth-iot-secrets" of kind "Namespace"
+2025-07-25 18:59:03 INFO:   Component Being Deployed: gsync-nonprod
+2025-07-25 18:59:03 INFO: Calculated Total Resources for Component: gsync-nonprod = {"cpu": 1, "memory": 4096}
+2025-07-25 18:59:03 INFO: Found existing Cronjob: gsync-nonprod Current Resources: {'mem_req': 1024.0, 'cpu_req': 0.3, 'cpu_limit': 1.0, 'mem_limit': 4096.0}
+2025-07-25 18:59:03 INFO: No increase in CPU or Memory required (0,0)
+2025-07-25 18:59:03 INFO: Applying ResourceQuota on auth-iot-secrets with CPU=4.0, Memory=16384.0
+2025-07-25 18:59:03 DEBUG: creating definition for provider resource "quota" of kind "ResourceQuota"
+2025-07-25 18:59:03 INFO: running deploy on units: secrets, gsync-nonprod
+2025-07-25 18:59:03 INFO: deploying environment: secrets
+2025-07-25 18:59:03 INFO: Deploying Secrets Namespace: auth-iot-secrets
+2025-07-25 18:59:03 INFO: creating/updating Namespace: auth-iot-secrets
+2025-07-25 18:59:04 DEBUG: creating definition for provider resource "secrets" of kind "RoleBinding"
+2025-07-25 18:59:04 INFO: creating/updating RoleBinding: secrets
+2025-07-25 18:59:04 INFO: Setting up Namespace: auth-iot-secrets
+2025-07-25 18:59:04 INFO: creating/updating Namespace: auth-iot-secrets
+2025-07-25 18:59:04 INFO: Setting up RoleBindings for auth-iot-secrets-auth-iot-secrets
+2025-07-25 18:59:04 DEBUG: creating definition for provider resource "auth-iot-secrets" of kind "RoleBinding"
+2025-07-25 18:59:04 INFO: creating/updating RoleBinding: auth-iot-secrets
+2025-07-25 18:59:04 INFO: Adding contacts
+2025-07-25 18:59:04 INFO: No Security distribution list prefix found for quota_group None
+2025-07-25 18:59:04 DEBUG: creating definition for provider resource "platform.bose.io:micro-admin" of kind "RoleBinding"
+2025-07-25 18:59:04 INFO: creating/updating RoleBinding: platform.bose.io:micro-admin
+2025-07-25 18:59:04 INFO: No quota resource applied.
+2025-07-25 18:59:04 INFO: deploying cronjob-component: gsync-nonprod
+2025-07-25 18:59:04 INFO: Deleting and re-creating cronjob --namespace auth-iot-secrets gsync-nonprod
+2025-07-25 18:59:04 INFO: creating/updating CronJob: gsync-nonprod
+2025-07-25 18:59:05 INFO: Calling cluster_resource_check(). Failures are ignored and recorded in a slack channel #cluster-resource-check
+2025-07-25 18:59:05 INFO: Total available Cluster Resources for ops are CPU: 100.45 (cores) and Memory 1005.5724868774414 GiB
+2025-07-25 18:59:05 INFO:   Component Being Deployed: gsync-nonprod
+2025-07-25 18:59:05 INFO: Calculated Total Resources for Component: gsync-nonprod = {"cpu": 1, "memory": 4096}
+2025-07-25 18:59:05 INFO: Found existing Cronjob: gsync-nonprod Current Resources: {'mem_req': 1024.0, 'cpu_req': 0.3, 'cpu_limit': 1.0, 'mem_limit': 4096.0}
+2025-07-25 18:59:05 INFO: No increase in CPU or Memory required (0,0)
+2025-07-25 18:59:05 INFO: No Quotas are applied to this namespace/placement.
+2025-07-25 18:59:05 DEBUG: creating definition for provider resource "quota" of kind "ResourceQuota"
+2025-07-25 18:59:05 INFO: No quota resource applied.
+2025-07-25 18:59:05 INFO: Setting Namespace Limits: CPU: 3.0, Memory: 12288.0
+2025-07-25 18:59:05 INFO: Deployment 100% finished
+2025-07-25 18:59:05 INFO: successfully ran deploy on units: secrets, gsync-nonprod
+2025-07-25 18:59:05 SUCCESS: action completed without detecting any errors
+2025-07-25 18:59:05 INFO: sending info to dashboard webhook: http://cloudops-service.svc-cloudops-prod.svc.cluster.live-aws-useast1:3000/dev/svc-cloudops/prod/cloudops-service/micro
+true
+I, [2025-07-25 18:59:05  #378208]  INFO -- : Created secret in auth-iot-secrets
+I, [2025-07-25 18:59:05  #378208]  INFO -- : gauth exiting with successful status.
+
+2025-07-25 18:57:24 INFO: Total available Cluster Resources for nonprod are CPU: 142.96 (cores) and Memory 3458.856346130371 GiB
+2025-07-25 18:57:24 INFO:   Component Being Deployed: iot-product-activation-core
+2025-07-25 18:57:24 INFO: Calculated Total Resources for Component: iot-product-activation-core = {"cpu": 3, "memory": 984}
+2025-07-25 18:57:24 INFO: Found existing Deployment: iot-product-activation-core Current Resources: {'mem_req': 492.0, 'cpu_req': 0.19, 'cpu_limit': 3.0, 'mem_limit': 984.0}
+2025-07-25 18:57:24 INFO: No increase in CPU or Memory required (0,0)
+2025-07-25 18:57:24 INFO: Using Quota Group: iot
+2025-07-25 18:57:24 INFO: Quota Availability URL=http://cloudops-quota.core-operations-prod.svc.cluster.live-aws-useast1:3000/group/quota/iot/nonprod
+2025-07-25 18:57:24 INFO: http://cloudops-quota.core-operations-prod.svc.cluster.live-aws-useast1:3000/group/quota/iot/nonprod attempt 0
+2025-07-25 18:57:25 INFO: received quota body: b'{"limits":{"cpu":125,"mem":429496729600},"scope":"group","name":"iot","security_group":"galapagos-iot"}'
+2025-07-25 18:57:25 INFO: Total cluster Quota for group - iot are CPU: 125 and Memory: 400.0 GiB
+2025-07-25 18:57:25 INFO: http://cloudops-quota.core-operations-prod.svc.cluster.live-aws-useast1:3000/quota/iot/nonprod/usage attempt 0
+2025-07-25 18:57:26 INFO: Current Quota Group Usage: {'mem': 97450459136, 'cpu': 99.76700000000002, 'cpu_used': 27.320000000000004, 'mem_used': 39571161088}
+2025-07-25 18:57:26 INFO: http://cloudops-quota.core-operations-prod.svc.cluster.live-aws-useast1:3000/namespacequota/svc-iot-product-activation-latest/usage attempt 0
+2025-07-25 18:57:26 DEBUG: creating definition for provider resource "quota" of kind "ResourceQuota"
+2025-07-25 18:57:26 INFO: creating/updating ResourceQuota: quota
+2025-07-25 18:57:26 INFO: ResourceQuota Applied: CPU: 3.0, Memory: 984.0
+2025-07-25 18:57:26 INFO: Setting Namespace Limits: CPU: 3.0, Memory: 984.0
+2025-07-25 18:57:26 INFO: Deployment 100% finished
+2025-07-25 18:57:26 INFO: Applying Authorization for action deploy
+2025-07-25 18:57:26 INFO: Deploying via Jenkins: ruby -I/home/jenkins/agent/workspace/iot/svc-iot-product-activation/latest-test_latest/svc-iot-product-activation/gauth/lib /home/jenkins/agent/workspace/iot/svc-iot-product-activation/latest-test_latest/svc-iot-product-activation/gauth/lib/exec.rb
+2025-07-25 18:57:26 INFO: Removing gauth folder: /home/jenkins/agent/workspace/iot/svc-iot-product-activation/latest-test_latest/svc-iot-product-activation/.gauth
+2025-07-25 18:57:27 INFO: Gauth Running: ruby -I/home/jenkins/agent/workspace/iot/svc-iot-product-activation/latest-test_latest/svc-iot-product-activation/gauth/lib /home/jenkins/agent/workspace/iot/svc-iot-product-activation/latest-test_latest/svc-iot-product-activation/gauth/lib/exec.rb -m "/home/jenkins/agent/workspace/iot/svc-iot-product-activation/latest-test_latest/svc-iot-product-activation/core-dev-tools/micro/micro.py" -d /home/jenkins/agent/workspace/iot/svc-iot-product-activation/latest-test_latest/svc-iot-product-activation/.gauth -f gauth.yaml --tag stmaster.4.610 --suffix latest --namespace svc-iot-product-activation-latest --microservice svc-iot-product-activation --placement nonprod --no-production --nonproduction in folder /home/jenkins/agent/workspace/iot/svc-iot-product-activation/latest-test_latest/svc-iot-product-activation/.gauth
+2025-07-25 18:59:05 INFO: successfully ran deploy on units: latest, pv-consort-config, config-map-consort-casbin, config-map-consort-rbac, config-map-consort-proxy-yaml, iot-product-activation-core
+2025-07-25 18:59:05 SUCCESS: action completed without detecting any errors
+2025-07-25 18:59:05 INFO: sending info to dashboard webhook: http://cloudops-service.svc-cloudops-prod.svc.cluster.live-aws-useast1:3000/dev/svc-cloudops/prod/cloudops-service/micro
+[Pipeline] }
+[Pipeline] // wrap
+[Pipeline] }
+[Pipeline] // withCredentials
+[Pipeline] }
+[Pipeline] // stage
+[Pipeline] wrap
+[Pipeline] {
+[Pipeline] echo
+ Finished Deployer! role: 'deployer', thisbranch: master
+[Pipeline] }
+[Pipeline] // wrap
+[Pipeline] mail
+[Pipeline] echo
+Unable to send email: javax.mail.MessagingException: Got bad greeting from SMTP host: davmail.core-operations-prod, port: 1025, response: [EOF]
+[Pipeline] echo
+Setting github status success for BoseCorp/svc-iot-product-activation
+[Pipeline] withCredentials
+Masking supported pattern matches of $UNAME or $PASS
+[Pipeline] {
+[Pipeline] sh
++ git rev-parse HEAD
+[Pipeline] readFile
+[Pipeline] sh
++ curl -q https://api.github.com/repos/BoseCorp/svc-iot-product-activation/statuses/0d312a12ddea0423872555644285da038db374fa -H Content-Type: application/json -d {"context": "Deployer", "state": "success", "description": "Deployment is completed without errors.", "target_url": "https://ingress-platform.live-aws-useast1.bose.io/dev/core-operations/jenkins-deployer-prod/devops-jenkins/job/iot/job/svc-iot-product-activation/job/latest-test_latest/job/svc-iot-product-activation//374/console"} -H Authorization: token ****
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+100  2231  100  1900  100   331   4513    786 --:--:-- --:--:-- --:--:--  5299
+{
+  "url": "https://api.github.com/repos/BoseCorp/svc-iot-product-activation/statuses/0d312a12ddea0423872555644285da038db374fa",
+  "avatar_url": "https://avatars.githubusercontent.com/u/209830035?v=4",
+  "id": 37983053683,
+  "node_id": "SC_kwDOPG1Y2s8AAAAI1_dncw",
+  "state": "success",
+  "description": "Deployment is completed without errors.",
+  "target_url": "https://ingress-platform.live-aws-useast1.bose.io/dev/core-operations/jenkins-deployer-prod/devops-jenkins/job/iot/job/svc-iot-product-activation/job/latest-test_latest/job/svc-iot-product-activation//374/console",
+  "context": "Deployer",
+  "created_at": "2025-07-25T18:59:08Z",
+  "updated_at": "2025-07-25T18:59:08Z",
+  "creator": {
+    "login": "svc-cloudops_bosecorp",
+    "id": 209830035,
+    "node_id": "U_kgDODIHAkw",
+    "avatar_url": "https://avatars.githubusercontent.com/u/209830035?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/svc-cloudops_bosecorp",
+    "html_url": "https://github.com/svc-cloudops_bosecorp",
+    "followers_url": "https://api.github.com/users/svc-cloudops_bosecorp/followers",
+    "following_url": "https://api.github.com/users/svc-cloudops_bosecorp/following{/other_user}",
+    "gists_url": "https://api.github.com/users/svc-cloudops_bosecorp/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/svc-cloudops_bosecorp/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/svc-cloudops_bosecorp/subscriptions",
+    "organizations_url": "https://api.github.com/users/svc-cloudops_bosecorp/orgs",
+    "repos_url": "https://api.github.com/users/svc-cloudops_bosecorp/repos",
+    "events_url": "https://api.github.com/users/svc-cloudops_bosecorp/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/svc-cloudops_bosecorp/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false
+  }
+}
+[Pipeline] }
+[Pipeline] // withCredentials
+[Pipeline] slackSend
+Slack Send Pipeline step running, values are - baseUrl: <empty>, teamDomain: boseconnect, channel: #iot-product-activatio, color: #008000, botUser: true, tokenCredentialId: slack-token, notifyCommitters: false, iconEmoji: <empty>, username: jenkins-deployer, timestamp: <empty>
+[Pipeline] slackSend
+Slack Send Pipeline step running, values are - baseUrl: <empty>, teamDomain: boseconnect, channel: #iot-product-activatio, color: #008000, botUser: true, tokenCredentialId: slack-token, notifyCommitters: false, iconEmoji: <empty>, username: jenkins-deployer, timestamp: <empty>
+[Pipeline] mail
+[Pipeline] echo
+Unable to send email: javax.mail.MessagingException: Got bad greeting from SMTP host: davmail.core-operations-prod, port: 1025, response: [EOF]
+[Pipeline] echo
+Deployment of svc-iot-product-activation, tag: master.4.610 (repo: BoseCorp/svc-iot-product-activation) is complete.
+[Pipeline] }
+[Pipeline] // wrap
+[Pipeline] }
+[Pipeline] // node
+[Pipeline] End of Pipeline
+Finished: SUCCESS
+Page generated:
+Jul 25, 2025 8:24:18 PM UTC
+REST API
+Jenkins 2.235.4
